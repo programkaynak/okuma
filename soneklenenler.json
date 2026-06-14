@@ -1,5 +1,14 @@
 [
     {
+        "id": "18164",
+        "imagesize": "1",
+        "kapak": "https://aktuelstudio2.com/tr2/18164/a (1).png",
+        "name": "EnglishHome",
+        "tarih": "14-31 Haziran 2026\nenglishhome.com",
+        "url_01": "https://aktuelstudio2.com/tr2/18164/a (1).png",
+        "market": "EnglishHome"
+    },
+    {
         "id": "18163",
         "imagesize": "1",
         "kapak": "https://aktuelstudio2.com/tr2/18163/a (1).webp",
@@ -483,16 +492,5 @@
         "url_02": "https://aktuelstudio2.com/tr2/18379/a (2).webp",
         "market": "Kooperatif",
         "zaman": 1781446791.4804564
-    },
-    {
-        "id": "18335",
-        "imagesize": "2",
-        "kapak": "https://aktuelstudio2.com/tr2/18335/a (1).webp",
-        "name": "Kooperatif Market",
-        "tarih": "09-15 Haziran 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/18335/a (1).webp",
-        "url_02": "https://aktuelstudio2.com/tr2/18335/a (2).webp",
-        "market": "Kooperatif",
-        "zaman": 1781446791.479981
     }
 ]
