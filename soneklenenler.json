@@ -1,5 +1,14 @@
 [
     {
+        "id": "18319",
+        "imagesize": "1",
+        "kapak": "https://aktuelstudio2.com/tr2/18319/a (1).webp",
+        "name": "Vatan",
+        "tarih": "01-30 Haziran 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/18319/a (1).webp",
+        "market": "Vatan"
+    },
+    {
         "id": "18366",
         "imagesize": "20",
         "kapak": "https://aktuelstudio2.com/tr2/18366/a (1).webp",
@@ -526,11 +535,5 @@
         "tarih": "Haziran 2026\nenglishhome.com",
         "kapak": "https://aktuelstudio2.com/tr2/18296/a (1).webp",
         "zaman": 1781441168.8921666
-    },
-    {
-        "market": "EnglishHome",
-        "tarih": "Haziran 2026\nenglishhome.com",
-        "kapak": "https://aktuelstudio2.com/tr2/18276/a (1).webp",
-        "zaman": 1781441168.8917441
     }
 ]
