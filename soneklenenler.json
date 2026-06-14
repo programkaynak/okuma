@@ -1,5 +1,14 @@
 [
     {
+        "id": "18328",
+        "imagesize": "20",
+        "kapak": "https://aktuelstudio2.com/tr2/18328/a (1).webp",
+        "name": "Metro",
+        "tarih": "08-26 Haziran 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/18328/a (1).webp",
+        "market": "Metro"
+    },
+    {
         "id": "170465",
         "imagesize": "112",
         "kapak": "https://aktuelstudio2.com/tr/170465/1a.jpg",
@@ -520,11 +529,5 @@
         "tarih": "21 Mayıs-08 Haziran 2026\nenglishhome.com",
         "kapak": "https://aktuelstudio2.com/tr2/18241/a (1).webp",
         "zaman": 1781441168.8913198
-    },
-    {
-        "market": "EnglishHome",
-        "tarih": "14-31 Haziran 2026\nenglishhome.com",
-        "kapak": "https://aktuelstudio2.com/tr2/18164/a (1).png",
-        "zaman": 1781441168.890747
     }
 ]
