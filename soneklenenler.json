@@ -1,5 +1,14 @@
 [
     {
+        "id": "18389",
+        "imagesize": "2",
+        "kapak": "https://aktuelstudio2.com/tr2/18389/a (1).webp",
+        "name": "Bizim",
+        "tarih": "11-17 Haziran 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/18389/a (1).webp",
+        "market": "Bizim"
+    },
+    {
         "id": "18365",
         "imagesize": "2",
         "kapak": "https://aktuelstudio2.com/tr2/18365/a (1).webp",
@@ -534,15 +543,5 @@
         "url_06": "https://aktuelstudio2.com/tr/170486/6a.jpg",
         "market": "A101",
         "zaman": 1781446783.0578673
-    },
-    {
-        "id": "170485",
-        "imagesize": "1",
-        "kapak": "https://aktuelstudio2.com/tr/170485/1a.jpg",
-        "name": "A101",
-        "tarih": "11-17 Haziran 2026",
-        "url_01": "https://aktuelstudio2.com/tr/170485/1a.jpg",
-        "market": "A101",
-        "zaman": 1781446783.057334
     }
 ]
