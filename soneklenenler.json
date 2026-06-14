@@ -1,5 +1,14 @@
 [
     {
+        "id": "18249",
+        "imagesize": "7",
+        "kapak": "https://aktuelstudio2.com/tr2/18249/a (1).webp",
+        "name": "Onur",
+        "tarih": "02-15 Haziran 2026\n(Trakya)",
+        "url_01": "https://aktuelstudio2.com/tr2/18249/a (1).webp",
+        "market": "Onur"
+    },
+    {
         "id": "18389",
         "imagesize": "2",
         "kapak": "https://aktuelstudio2.com/tr2/18389/a (1).webp",
@@ -528,20 +537,5 @@
         "url_41": "https://aktuelstudio2.com/tr/170487/41a.jpg",
         "market": "A101",
         "zaman": 1781446783.0583508
-    },
-    {
-        "id": "170486",
-        "imagesize": "6",
-        "kapak": "https://aktuelstudio2.com/tr/170486/1a.jpg",
-        "name": "A101",
-        "tarih": "11-30 Haziran 2026                                                  (Online Özel)",
-        "url_01": "https://aktuelstudio2.com/tr/170486/1a.jpg",
-        "url_02": "https://aktuelstudio2.com/tr/170486/2a.jpg",
-        "url_03": "https://aktuelstudio2.com/tr/170486/3a.jpg",
-        "url_04": "https://aktuelstudio2.com/tr/170486/4a.jpg",
-        "url_05": "https://aktuelstudio2.com/tr/170486/5a.jpg",
-        "url_06": "https://aktuelstudio2.com/tr/170486/6a.jpg",
-        "market": "A101",
-        "zaman": 1781446783.0578673
     }
 ]
