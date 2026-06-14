@@ -1,5 +1,14 @@
 [
     {
+        "id": "170520",
+        "imagesize": "7",
+        "kapak": "https://aktuelstudio2.com/tr/170520/1a.jpg",
+        "name": "A101",
+        "tarih": "13-26 Haziran 2026                                                 (Detaylı Ürünler)",
+        "url_01": "https://aktuelstudio2.com/tr/170520/1a.jpg",
+        "market": "A101"
+    },
+    {
         "id": "170556",
         "imagesize": "72",
         "kapak": "https://aktuelstudio2.com/tr/170556/1a.jpg",
@@ -496,11 +505,5 @@
         "tarih": "Haziran 2026\nenglishhome.com",
         "kapak": "https://aktuelstudio2.com/tr2/15650/a (1).webp",
         "zaman": 1781441168.8875654
-    },
-    {
-        "market": "Vatan",
-        "tarih": "09-30 Haziran 2026",
-        "kapak": "https://aktuelstudio2.com/tr2/18404/a (1).jpg",
-        "zaman": 1781441167.045876
     }
 ]
