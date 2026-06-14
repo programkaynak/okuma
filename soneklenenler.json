@@ -1,5 +1,35 @@
 [
     {
+        "id": "170480",
+        "imagesize": "21",
+        "kapak": "https://aktuelstudio2.com/tr/170480/1a.jpg",
+        "name": "A101",
+        "tarih": "11-17 Haziran 2026                                                 (Detaylı Ürünler)",
+        "url_01": "https://aktuelstudio2.com/tr/170480/1a.jpg",
+        "url_02": "https://aktuelstudio2.com/tr/170480/2a.jpg",
+        "url_03": "https://aktuelstudio2.com/tr/170480/3a.jpg",
+        "url_04": "https://aktuelstudio2.com/tr/170480/4a.jpg",
+        "url_05": "https://aktuelstudio2.com/tr/170480/5a.jpg",
+        "url_06": "https://aktuelstudio2.com/tr/170480/6a.jpg",
+        "url_07": "https://aktuelstudio2.com/tr/170480/7a.jpg",
+        "url_08": "https://aktuelstudio2.com/tr/170480/8a.jpg",
+        "url_09": "https://aktuelstudio2.com/tr/170480/9a.jpg",
+        "url_10": "https://aktuelstudio2.com/tr/170480/10a.jpg",
+        "url_11": "https://aktuelstudio2.com/tr/170480/11a.jpg",
+        "url_12": "https://aktuelstudio2.com/tr/170480/12a.jpg",
+        "url_13": "https://aktuelstudio2.com/tr/170480/13a.jpg",
+        "url_14": "https://aktuelstudio2.com/tr/170480/14a.jpg",
+        "url_15": "https://aktuelstudio2.com/tr/170480/15a.jpg",
+        "url_16": "https://aktuelstudio2.com/tr/170480/16a.jpg",
+        "url_17": "https://aktuelstudio2.com/tr/170480/17a.jpg",
+        "url_18": "https://aktuelstudio2.com/tr/170480/18a.jpg",
+        "url_19": "https://aktuelstudio2.com/tr/170480/19a.jpg",
+        "url_20": "https://aktuelstudio2.com/tr/170480/20a.jpg",
+        "url_21": "https://aktuelstudio2.com/tr/170480/21a.jpg",
+        "market": "A101",
+        "zaman": 1781451296.7367337
+    },
+    {
         "id": "170479",
         "imagesize": "21",
         "kapak": "https://aktuelstudio2.com/tr/170479/1a.jpg",
@@ -469,11 +499,5 @@
         "tarih": "08-15 Haziran 2026",
         "kapak": "https://aktuelstudio2.com/tr2/18364/a (1).webp",
         "zaman": 1781441167.0453956
-    },
-    {
-        "market": "Vatan",
-        "tarih": "08-15 Haziran 2026",
-        "kapak": "https://aktuelstudio2.com/tr2/18346/a (1).webp",
-        "zaman": 1781441167.0449696
     }
 ]
