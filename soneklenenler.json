@@ -1,5 +1,14 @@
 [
     {
+        "id": "18446",
+        "imagesize": "3",
+        "kapak": "https://aktuelstudio2.com/tr2/18446/a (1).webp",
+        "name": "Carrefoursa",
+        "tarih": "16-22 Haziran 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/18446/a (1).webp",
+        "market": "Carrefoursa"
+    },
+    {
         "id": "18438",
         "imagesize": "1",
         "kapak": "https://aktuelstudio2.com/tr2/18438/a (1).webp",
@@ -258,15 +267,6 @@
         "name": "ŞOK",
         "tarih": "13-16 Haziran 2026                                                 (Detaylı Ürünler)",
         "url_01": "https://aktuelstudio2.com/tr/170551/1a.jpg",
-        "market": "ŞOK"
-    },
-    {
-        "id": "170425",
-        "imagesize": "1",
-        "kapak": "https://aktuelstudio2.com/tr/170425/1a.jpg",
-        "name": "ŞOK",
-        "tarih": "06-12 Haziran 2026",
-        "url_01": "https://aktuelstudio2.com/tr/170425/1a.jpg",
         "market": "ŞOK"
     }
 ]
