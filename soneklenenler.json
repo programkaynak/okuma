@@ -1,5 +1,14 @@
 [
     {
+        "id": "18471",
+        "imagesize": "4",
+        "kapak": "https://aktuelstudio2.com/tr2/18471/a (1).webp",
+        "name": "Onur",
+        "tarih": "18-24 Haziran 2026\n(Bursa)",
+        "url_01": "https://aktuelstudio2.com/tr2/18471/a (1).webp",
+        "market": "Onur"
+    },
+    {
         "id": "18470",
         "imagesize": "4",
         "kapak": "https://aktuelstudio2.com/tr2/18470/a (1).webp",
@@ -259,14 +268,5 @@
         "tarih": "17 Haziran 2026 Tarihine Özel",
         "url_01": "https://aktuelstudio2.com/tr2/18443/a (1).webp",
         "market": "HappyCenter"
-    },
-    {
-        "id": "18451",
-        "imagesize": "15",
-        "kapak": "https://aktuelstudio2.com/tr2/18451/a (1).jpg",
-        "name": "Onur",
-        "tarih": "16-29 Haziran 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/18451/a (1).jpg",
-        "market": "Onur"
     }
 ]
