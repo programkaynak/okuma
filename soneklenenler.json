@@ -1,5 +1,14 @@
 [
     {
+        "id": "18464",
+        "imagesize": "113",
+        "kapak": "https://aktuelstudio2.com/tr2/18464/a (1).webp",
+        "name": "Migros",
+        "tarih": "18 Haziran-08 Temmuz 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/18464/a (1).webp",
+        "market": "Migros"
+    },
+    {
         "id": "18463",
         "imagesize": "42",
         "kapak": "https://aktuelstudio2.com/tr2/18463/a (1).webp",
@@ -258,15 +267,6 @@
         "name": "ŞOK",
         "tarih": "15-21 Haziran 2026                                                 (Detaylı Ürünler)",
         "url_01": "https://aktuelstudio2.com/tr/170568/1a.jpg",
-        "market": "ŞOK"
-    },
-    {
-        "id": "170567",
-        "imagesize": "3",
-        "kapak": "https://aktuelstudio2.com/tr/170567/1a.jpg",
-        "name": "ŞOK",
-        "tarih": "15-22 Haziran 2026",
-        "url_01": "https://aktuelstudio2.com/tr/170567/1a.jpg",
         "market": "ŞOK"
     }
 ]
