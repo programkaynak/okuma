@@ -1,5 +1,14 @@
 [
     {
+        "id": "170588",
+        "imagesize": "1",
+        "kapak": "https://aktuelstudio2.com/tr/170588/1a.jpg",
+        "name": "A101",
+        "tarih": "18-21 Haziran 2026",
+        "url_01": "https://aktuelstudio2.com/tr/170588/1a.jpg",
+        "market": "A101"
+    },
+    {
         "id": "170587",
         "imagesize": "1",
         "kapak": "https://aktuelstudio2.com/tr/170587/1a.jpg",
@@ -258,15 +267,6 @@
         "name": "Çetinkaya",
         "tarih": "15-30 Haziran 2026\n(Adana, Mersin, Gaziantep)",
         "url_01": "https://aktuelstudio2.com/tr2/18426/a (1).webp",
-        "market": "Çetinkaya"
-    },
-    {
-        "id": "18425",
-        "imagesize": "35",
-        "kapak": "https://aktuelstudio2.com/tr2/18425/a (1).webp",
-        "name": "Çetinkaya",
-        "tarih": "15-30 Haziran 2026\n(İstanbul, Ankara)",
-        "url_01": "https://aktuelstudio2.com/tr2/18425/a (1).webp",
         "market": "Çetinkaya"
     }
 ]
