@@ -1,5 +1,14 @@
 [
     {
+        "id": "18488",
+        "imagesize": "1",
+        "kapak": "https://aktuelstudio2.com/tr2/18488/a (1).webp",
+        "name": "Hakmar",
+        "tarih": "19-21 Haziran 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/18488/a (1).webp",
+        "market": "Hakmar"
+    },
+    {
         "id": "18483",
         "imagesize": "1",
         "kapak": "https://aktuelstudio2.com/tr2/18483/a (1).webp",
@@ -259,14 +268,5 @@
         "tarih": "18 Haziran-01 Temmuz 2026",
         "url_01": "https://aktuelstudio2.com/tr2/18475/a (1).webp",
         "market": "Bizim"
-    },
-    {
-        "id": "18466",
-        "imagesize": "1",
-        "kapak": "https://aktuelstudio2.com/tr2/18466/a (1).webp",
-        "name": "EnglishHome",
-        "tarih": "17-22 Haziran 2026\nenglishhome.com",
-        "url_01": "https://aktuelstudio2.com/tr2/18466/a (1).webp",
-        "market": "EnglishHome"
     }
 ]
