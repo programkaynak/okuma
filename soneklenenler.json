@@ -1,5 +1,14 @@
 [
     {
+        "id": "170600",
+        "imagesize": "15",
+        "kapak": "https://aktuelstudio2.com/tr/170600/1a.jpg",
+        "name": "BİM",
+        "tarih": "19-26 Haziran 2026                                                 (Detaylı Ürünler)",
+        "url_01": "https://aktuelstudio2.com/tr/170600/1a.jpg",
+        "market": "BİM"
+    },
+    {
         "id": "170599",
         "imagesize": "36",
         "kapak": "https://aktuelstudio2.com/tr/170599/1a.jpg",
@@ -258,15 +267,6 @@
         "name": "Kooperatif",
         "tarih": "18 Haziran 2026 Tarihine Özel",
         "url_01": "https://aktuelstudio2.com/tr2/18469/a (1).webp",
-        "market": "Kooperatif"
-    },
-    {
-        "id": "18452",
-        "imagesize": "1",
-        "kapak": "https://aktuelstudio2.com/tr2/18452/a (1).webp",
-        "name": "Kooperatif",
-        "tarih": "17-18 Haziran 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/18452/a (1).webp",
         "market": "Kooperatif"
     }
 ]
