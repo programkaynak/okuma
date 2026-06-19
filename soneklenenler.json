@@ -1,5 +1,14 @@
 [
     {
+        "id": "18490",
+        "imagesize": "56",
+        "kapak": "https://aktuelstudio2.com/tr2/18490/a (1).webp",
+        "name": "Migros",
+        "tarih": "18 Haziran-08 Temmuz 2026\n(5M)",
+        "url_01": "https://aktuelstudio2.com/tr2/18490/a (1).webp",
+        "market": "Migros"
+    },
+    {
         "id": "170606",
         "imagesize": "1",
         "kapak": "https://aktuelstudio2.com/tr/170606/1a.jpg",
@@ -258,15 +267,6 @@
         "name": "Hakmar",
         "tarih": "25 Haziran-01 Temmuz 2026",
         "url_01": "https://aktuelstudio2.com/tr2/18457/a (1).webp",
-        "market": "Hakmar"
-    },
-    {
-        "id": "18456",
-        "imagesize": "3",
-        "kapak": "https://aktuelstudio2.com/tr2/18456/a (1).webp",
-        "name": "Hakmar",
-        "tarih": "18-28 Haziran 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/18456/a (1).webp",
         "market": "Hakmar"
     }
 ]
