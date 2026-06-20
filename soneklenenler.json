@@ -1,5 +1,14 @@
 [
     {
+        "id": "18506",
+        "imagesize": "2",
+        "kapak": "https://aktuelstudio2.com/tr2/18506/a (1).jpg",
+        "name": "Vatan",
+        "tarih": "18-22 Haziran 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/18506/a (1).jpg",
+        "market": "Vatan"
+    },
+    {
         "id": "18504",
         "imagesize": "10",
         "kapak": "https://aktuelstudio2.com/tr2/18504/a (1).webp",
@@ -258,15 +267,6 @@
         "name": "A101",
         "tarih": "20-26 Haziran 2026                                                 (Haftanın Yıldızları)",
         "url_01": "https://aktuelstudio2.com/tr/170655/1a.jpg",
-        "market": "A101"
-    },
-    {
-        "id": "170611",
-        "imagesize": "15",
-        "kapak": "https://aktuelstudio2.com/tr/170611/1a.jpg",
-        "name": "A101",
-        "tarih": "25 Haziran-01 Temmuz 2026",
-        "url_01": "https://aktuelstudio2.com/tr/170611/1a.jpg",
         "market": "A101"
     }
 ]
