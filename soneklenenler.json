@@ -1,5 +1,23 @@
 [
     {
+        "id": "18503",
+        "imagesize": "36",
+        "kapak": "https://aktuelstudio2.com/tr2/18503/a (1).webp",
+        "name": "Metro",
+        "tarih": "19-30 Haziran 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/18503/a (1).webp",
+        "market": "Metro"
+    },
+    {
+        "id": "18495",
+        "imagesize": "1",
+        "kapak": "https://aktuelstudio2.com/tr2/18495/a (1).webp",
+        "name": "Kooperatif",
+        "tarih": "20 Haziran 2026 Tarihine Özel",
+        "url_01": "https://aktuelstudio2.com/tr2/18495/a (1).webp",
+        "market": "Kooperatif"
+    },
+    {
         "id": "18492",
         "imagesize": "2",
         "kapak": "https://aktuelstudio2.com/tr2/18492/a (1).webp",
@@ -249,24 +267,6 @@
         "name": "ŞOK",
         "tarih": "18-25 Haziran 2026                                                 (Detaylı Ürünler)",
         "url_01": "https://aktuelstudio2.com/tr/170592/1a.jpg",
-        "market": "ŞOK"
-    },
-    {
-        "id": "170607",
-        "imagesize": "5",
-        "kapak": "https://aktuelstudio2.com/tr/170607/1a.jpg",
-        "name": "BİM",
-        "tarih": "19-30 Haziran 2026                                                 (Dondurma İndirim)",
-        "url_01": "https://aktuelstudio2.com/tr/170607/1a.jpg",
-        "market": "BİM"
-    },
-    {
-        "id": "170651",
-        "imagesize": "2",
-        "kapak": "https://aktuelstudio2.com/tr/170651/1a.jpg",
-        "name": "ŞOK",
-        "tarih": "20-23 Haziran 2026",
-        "url_01": "https://aktuelstudio2.com/tr/170651/1a.jpg",
         "market": "ŞOK"
     }
 ]
