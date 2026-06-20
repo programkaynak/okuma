@@ -1,5 +1,23 @@
 [
     {
+        "id": "18492",
+        "imagesize": "2",
+        "kapak": "https://aktuelstudio2.com/tr2/18492/a (1).webp",
+        "name": "Kooperatif",
+        "tarih": "20 Haziran 2026 Tarihine Özel",
+        "url_01": "https://aktuelstudio2.com/tr2/18492/a (1).webp",
+        "market": "Kooperatif"
+    },
+    {
+        "id": "18514",
+        "imagesize": "52",
+        "kapak": "https://aktuelstudio2.com/tr2/18514/a (1).webp",
+        "name": "Carrefoursa",
+        "tarih": "18-30 Haziran 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/18514/a (1).webp",
+        "market": "Carrefoursa"
+    },
+    {
         "id": "18501",
         "imagesize": "3",
         "kapak": "https://aktuelstudio2.com/tr2/18501/a (1).webp",
@@ -249,24 +267,6 @@
         "name": "ŞOK",
         "tarih": "20-23 Haziran 2026",
         "url_01": "https://aktuelstudio2.com/tr/170651/1a.jpg",
-        "market": "ŞOK"
-    },
-    {
-        "id": "170650",
-        "imagesize": "2",
-        "kapak": "https://aktuelstudio2.com/tr/170650/1a.jpg",
-        "name": "ŞOK",
-        "tarih": "20-23 Haziran 2026                                                 (İste Gelsin)",
-        "url_01": "https://aktuelstudio2.com/tr/170650/1a.jpg",
-        "market": "ŞOK"
-    },
-    {
-        "id": "170593",
-        "imagesize": "2",
-        "kapak": "https://aktuelstudio2.com/tr/170593/1a.jpg",
-        "name": "ŞOK",
-        "tarih": "18-30 Haziran 2026",
-        "url_01": "https://aktuelstudio2.com/tr/170593/1a.jpg",
         "market": "ŞOK"
     }
 ]
