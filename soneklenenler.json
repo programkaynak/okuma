@@ -1,5 +1,32 @@
 [
     {
+        "id": "170635",
+        "imagesize": "5",
+        "kapak": "https://aktuelstudio2.com/tr/170635/1a.jpg",
+        "name": "A101",
+        "tarih": "20-26 Haziran 2026                                                 (Detaylı Ürünler)",
+        "url_01": "https://aktuelstudio2.com/tr/170635/1a.jpg",
+        "market": "A101"
+    },
+    {
+        "id": "170636",
+        "imagesize": "1",
+        "kapak": "https://aktuelstudio2.com/tr/170636/1a.jpg",
+        "name": "A101",
+        "tarih": "20 Haziran-03 Temmuz 2026",
+        "url_01": "https://aktuelstudio2.com/tr/170636/1a.jpg",
+        "market": "A101"
+    },
+    {
+        "id": "170634",
+        "imagesize": "2",
+        "kapak": "https://aktuelstudio2.com/tr/170634/1a.jpg",
+        "name": "A101",
+        "tarih": "20-23 Haziran 2026",
+        "url_01": "https://aktuelstudio2.com/tr/170634/1a.jpg",
+        "market": "A101"
+    },
+    {
         "id": "170633",
         "imagesize": "4",
         "kapak": "https://aktuelstudio2.com/tr/170633/1a.jpg",
@@ -240,33 +267,6 @@
         "name": "BİM",
         "tarih": "19-22 Haziran 2026                                                 (Detaylı Ürünler)",
         "url_01": "https://aktuelstudio2.com/tr/170599/1a.jpg",
-        "market": "BİM"
-    },
-    {
-        "id": "170597",
-        "imagesize": "9",
-        "kapak": "https://aktuelstudio2.com/tr/170597/1a.jpg",
-        "name": "BİM",
-        "tarih": "19-22 Haziran 2026                                                 (Detaylı Ürünler)",
-        "url_01": "https://aktuelstudio2.com/tr/170597/1a.jpg",
-        "market": "BİM"
-    },
-    {
-        "id": "170596",
-        "imagesize": "5",
-        "kapak": "https://aktuelstudio2.com/tr/170596/1a.jpg",
-        "name": "BİM",
-        "tarih": "19-22 Haziran 2026                                                 (5 Al 4 Öde)",
-        "url_01": "https://aktuelstudio2.com/tr/170596/1a.jpg",
-        "market": "BİM"
-    },
-    {
-        "id": "170594",
-        "imagesize": "3",
-        "kapak": "https://aktuelstudio2.com/tr/170594/1a.jpg",
-        "name": "BİM",
-        "tarih": "19 Haziran-19 Temmuz 2026",
-        "url_01": "https://aktuelstudio2.com/tr/170594/1a.jpg",
         "market": "BİM"
     }
 ]
