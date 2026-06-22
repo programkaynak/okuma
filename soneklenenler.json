@@ -1,5 +1,14 @@
 [
     {
+        "id": "18523",
+        "imagesize": "1",
+        "kapak": "https://aktuelstudio2.com/tr2/18523/a (1).webp",
+        "name": "Hakmar",
+        "tarih": "23-29 Haziran 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/18523/a (1).webp",
+        "market": "Hakmar"
+    },
+    {
         "id": "18516",
         "imagesize": "3",
         "kapak": "https://aktuelstudio2.com/tr2/18516/a (1).webp",
@@ -258,15 +267,6 @@
         "name": "A101",
         "tarih": "20 Haziran-03 Temmuz 2026",
         "url_01": "https://aktuelstudio2.com/tr/170654/1a.jpg",
-        "market": "A101"
-    },
-    {
-        "id": "170645",
-        "imagesize": "4",
-        "kapak": "https://aktuelstudio2.com/tr/170645/1a.jpg",
-        "name": "A101",
-        "tarih": "20-26 Haziran 2026                                                 (Artı Kampanya)",
-        "url_01": "https://aktuelstudio2.com/tr/170645/1a.jpg",
         "market": "A101"
     }
 ]
