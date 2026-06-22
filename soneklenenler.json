@@ -1,5 +1,14 @@
 [
     {
+        "id": "18518",
+        "imagesize": "1",
+        "kapak": "https://aktuelstudio2.com/tr2/18518/a (1).webp",
+        "name": "HappyCenter",
+        "tarih": "22-30 Haziran 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/18518/a (1).webp",
+        "market": "HappyCenter"
+    },
+    {
         "id": "18523",
         "imagesize": "1",
         "kapak": "https://aktuelstudio2.com/tr2/18523/a (1).webp",
@@ -259,14 +268,5 @@
         "tarih": "20-23 Haziran 2026                                                 (Detaylı Ürünler)",
         "url_01": "https://aktuelstudio2.com/tr/170652/1a.jpg",
         "market": "ŞOK"
-    },
-    {
-        "id": "170654",
-        "imagesize": "1",
-        "kapak": "https://aktuelstudio2.com/tr/170654/1a.jpg",
-        "name": "A101",
-        "tarih": "20 Haziran-03 Temmuz 2026",
-        "url_01": "https://aktuelstudio2.com/tr/170654/1a.jpg",
-        "market": "A101"
     }
 ]
