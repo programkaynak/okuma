@@ -1,5 +1,14 @@
 [
     {
+        "id": "18533",
+        "imagesize": "2",
+        "kapak": "https://aktuelstudio2.com/tr2/18533/a (1).webp",
+        "name": "Gratis",
+        "tarih": "23-25 Haziran 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/18533/a (1).webp",
+        "market": "Gratis"
+    },
+    {
         "id": "18539",
         "imagesize": "1",
         "kapak": "https://aktuelstudio2.com/tr2/18539/a (1).jpg",
@@ -258,15 +267,6 @@
         "name": "Çağri",
         "tarih": "15-28 Haziran 2026",
         "url_01": "https://aktuelstudio2.com/tr2/18512/a (1).webp",
-        "market": "Çağri"
-    },
-    {
-        "id": "18497",
-        "imagesize": "1",
-        "kapak": "https://aktuelstudio2.com/tr2/18497/a (1).webp",
-        "name": "Çağri",
-        "tarih": "Aşure Ürünleri 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/18497/a (1).webp",
         "market": "Çağri"
     }
 ]
