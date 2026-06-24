@@ -1,5 +1,14 @@
 [
     {
+        "id": "18551",
+        "imagesize": "2",
+        "kapak": "https://aktuelstudio2.com/tr2/18551/a (1).webp",
+        "name": "Carrefoursa",
+        "tarih": "23-29 Haziran 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/18551/a (1).webp",
+        "market": "Carrefoursa"
+    },
+    {
         "id": "18550",
         "imagesize": "3",
         "kapak": "https://aktuelstudio2.com/tr2/18550/a (1).webp",
@@ -259,14 +268,5 @@
         "tarih": "15-22 Haziran 2026",
         "url_01": "https://aktuelstudio2.com/tr2/18520/a (1).webp",
         "market": "Vatan"
-    },
-    {
-        "id": "18518",
-        "imagesize": "1",
-        "kapak": "https://aktuelstudio2.com/tr2/18518/a (1).webp",
-        "name": "HappyCenter",
-        "tarih": "22-30 Haziran 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/18518/a (1).webp",
-        "market": "HappyCenter"
     }
 ]
