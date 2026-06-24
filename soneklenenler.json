@@ -1,5 +1,14 @@
 [
     {
+        "id": "18561",
+        "imagesize": "6",
+        "kapak": "https://aktuelstudio2.com/tr2/18561/a (1).webp",
+        "name": "Metro",
+        "tarih": "24-30 Haziran 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/18561/a (1).webp",
+        "market": "Metro"
+    },
+    {
         "id": "18560",
         "imagesize": "4",
         "kapak": "https://aktuelstudio2.com/tr2/18560/a (1).webp",
@@ -259,14 +268,5 @@
         "tarih": "24-30 Haziran 2026                                                 (İste Gelsin)",
         "url_01": "https://aktuelstudio2.com/tr/170670/1a.jpg",
         "market": "ŞOK"
-    },
-    {
-        "id": "170669",
-        "imagesize": "1",
-        "kapak": "https://aktuelstudio2.com/tr/170669/1a.jpg",
-        "name": "BİM",
-        "tarih": "24-30 Haziran 2026                                                 (Eve Teslim)",
-        "url_01": "https://aktuelstudio2.com/tr/170669/1a.jpg",
-        "market": "BİM"
     }
 ]
