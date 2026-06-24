@@ -1,5 +1,14 @@
 [
     {
+        "id": "18542",
+        "imagesize": "8",
+        "kapak": "https://aktuelstudio2.com/tr2/18542/a (1).webp",
+        "name": "Seyhanlar",
+        "tarih": "25 Haziran 2026 Tarihine Özel",
+        "url_01": "https://aktuelstudio2.com/tr2/18542/a (1).webp",
+        "market": "Seyhanlar"
+    },
+    {
         "id": "18545",
         "imagesize": "1",
         "kapak": "https://aktuelstudio2.com/tr2/18545/a (1).webp",
@@ -259,14 +268,5 @@
         "tarih": "23 Haziran-06 Temmuz 2026",
         "url_01": "https://aktuelstudio2.com/tr2/18529/a (1).webp",
         "market": "Hakmar"
-    },
-    {
-        "id": "18525",
-        "imagesize": "2",
-        "kapak": "https://aktuelstudio2.com/tr2/18525/a (1).webp",
-        "name": "Kooperatif",
-        "tarih": "23-29 Haziran 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/18525/a (1).webp",
-        "market": "Kooperatif"
     }
 ]
