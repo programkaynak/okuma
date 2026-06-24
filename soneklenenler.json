@@ -1,5 +1,14 @@
 [
     {
+        "id": "18540",
+        "imagesize": "1",
+        "kapak": "https://aktuelstudio2.com/tr2/18540/a (1).webp",
+        "name": "Kooperatif",
+        "tarih": "24 Haziran 2026 Tarihine Özel",
+        "url_01": "https://aktuelstudio2.com/tr2/18540/a (1).webp",
+        "market": "Kooperatif"
+    },
+    {
         "id": "18551",
         "imagesize": "2",
         "kapak": "https://aktuelstudio2.com/tr2/18551/a (1).webp",
@@ -259,14 +268,5 @@
         "tarih": "22-23 Haziran 2026\nenglishhome.com",
         "url_01": "https://aktuelstudio2.com/tr2/18524/a (1).webp",
         "market": "EnglishHome"
-    },
-    {
-        "id": "18520",
-        "imagesize": "1",
-        "kapak": "https://aktuelstudio2.com/tr2/18520/a (1).webp",
-        "name": "Vatan",
-        "tarih": "15-22 Haziran 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/18520/a (1).webp",
-        "market": "Vatan"
     }
 ]
