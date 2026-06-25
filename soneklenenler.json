@@ -1,5 +1,14 @@
 [
     {
+        "id": "18574",
+        "imagesize": "2",
+        "kapak": "https://aktuelstudio2.com/tr2/18574/a (1).webp",
+        "name": "Metro",
+        "tarih": "25-30 Haziran 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/18574/a (1).webp",
+        "market": "Metro"
+    },
+    {
         "id": "18579",
         "imagesize": "1",
         "kapak": "https://aktuelstudio2.com/tr2/18579/a (1).webp",
@@ -258,15 +267,6 @@
         "name": "A101",
         "tarih": "24-27 Haziran 2026                                                 (Yaz Özel İndirimler)",
         "url_01": "https://aktuelstudio2.com/tr/170675/1a.jpg",
-        "market": "A101"
-    },
-    {
-        "id": "170677",
-        "imagesize": "1",
-        "kapak": "https://aktuelstudio2.com/tr/170677/1a.jpg",
-        "name": "A101",
-        "tarih": "24-26 Haziran 2026",
-        "url_01": "https://aktuelstudio2.com/tr/170677/1a.jpg",
         "market": "A101"
     }
 ]
