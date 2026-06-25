@@ -1,5 +1,14 @@
 [
     {
+        "id": "170687",
+        "imagesize": "4",
+        "kapak": "https://aktuelstudio2.com/tr/170687/1a.jpg",
+        "name": "ŞOK",
+        "tarih": "24-30 Haziran 2026                                                 (Detaylı Ürünler)",
+        "url_01": "https://aktuelstudio2.com/tr/170687/1a.jpg",
+        "market": "ŞOK"
+    },
+    {
         "id": "170689",
         "imagesize": "1",
         "kapak": "https://aktuelstudio2.com/tr/170689/1a.jpg",
@@ -258,15 +267,6 @@
         "name": "Metro",
         "tarih": "24-30 Haziran 2026",
         "url_01": "https://aktuelstudio2.com/tr2/18562/a (1).webp",
-        "market": "Metro"
-    },
-    {
-        "id": "18561",
-        "imagesize": "6",
-        "kapak": "https://aktuelstudio2.com/tr2/18561/a (1).webp",
-        "name": "Metro",
-        "tarih": "24-30 Haziran 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/18561/a (1).webp",
         "market": "Metro"
     }
 ]
