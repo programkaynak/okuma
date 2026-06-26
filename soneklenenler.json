@@ -1,5 +1,14 @@
 [
     {
+        "id": "18603",
+        "imagesize": "1",
+        "kapak": "https://aktuelstudio2.com/tr2/18603/a (1).webp",
+        "name": "Kooperatif",
+        "tarih": "26 Haziran 2026 Tarihine Özel",
+        "url_01": "https://aktuelstudio2.com/tr2/18603/a (1).webp",
+        "market": "Kooperatif"
+    },
+    {
         "id": "18602",
         "imagesize": "1",
         "kapak": "https://aktuelstudio2.com/tr2/18602/a (1).webp",
@@ -258,15 +267,6 @@
         "name": "Kooperatif",
         "tarih": "25 Haziran 2026 Tarihine Özel",
         "url_01": "https://aktuelstudio2.com/tr2/18579/a (1).webp",
-        "market": "Kooperatif"
-    },
-    {
-        "id": "18567",
-        "imagesize": "1",
-        "kapak": "https://aktuelstudio2.com/tr2/18567/a (1).webp",
-        "name": "Kooperatif",
-        "tarih": "25-30 Haziran 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/18567/a (1).webp",
         "market": "Kooperatif"
     }
 ]
