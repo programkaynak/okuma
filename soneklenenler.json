@@ -1,5 +1,14 @@
 [
     {
+        "id": "170755",
+        "imagesize": "4",
+        "kapak": "https://aktuelstudio2.com/tr/170755/1a.jpg",
+        "name": "A101",
+        "tarih": "27 Haziran-03 Temmuz 2026 (Haftanın Yıldızları)",
+        "url_01": "https://aktuelstudio2.com/tr/170755/1a.jpg",
+        "market": "A101"
+    },
+    {
         "id": "170711",
         "imagesize": "10",
         "kapak": "https://aktuelstudio2.com/tr/170711/1a.jpg",
@@ -258,15 +267,6 @@
         "name": "BİM",
         "tarih": "26 Haziran-02 Temmuz 2026 (Detaylı Ürünler)",
         "url_01": "https://aktuelstudio2.com/tr/170695/1a.jpg",
-        "market": "BİM"
-    },
-    {
-        "id": "170690",
-        "imagesize": "3",
-        "kapak": "https://aktuelstudio2.com/tr/170690/1a.jpg",
-        "name": "BİM",
-        "tarih": "30 Haziran-06 Temmuz 2026",
-        "url_01": "https://aktuelstudio2.com/tr/170690/1a.jpg",
         "market": "BİM"
     }
 ]
