@@ -1,5 +1,14 @@
 [
     {
+        "id": "170761",
+        "imagesize": "1",
+        "kapak": "https://aktuelstudio2.com/tr/170761/1a.jpg",
+        "name": "BİM",
+        "tarih": "01-07 Temmuz 2026                                                 (Eve Teslim)",
+        "url_01": "https://aktuelstudio2.com/tr/170761/1a.jpg",
+        "market": "BİM"
+    },
+    {
         "id": "170760",
         "imagesize": "1",
         "kapak": "https://aktuelstudio2.com/tr/170760/1a.jpg",
@@ -258,15 +267,6 @@
         "name": "Onur",
         "tarih": "25 Haziran-01 Temmuz 2026\n(İstanbul)",
         "url_01": "https://aktuelstudio2.com/tr2/18605/a (1).webp",
-        "market": "Onur"
-    },
-    {
-        "id": "18604",
-        "imagesize": "4",
-        "kapak": "https://aktuelstudio2.com/tr2/18604/a (1).webp",
-        "name": "Onur",
-        "tarih": "25 Haziran-01 Temmuz 2026\n(Bursa)",
-        "url_01": "https://aktuelstudio2.com/tr2/18604/a (1).webp",
         "market": "Onur"
     }
 ]
