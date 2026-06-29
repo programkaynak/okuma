@@ -1,5 +1,14 @@
 [
     {
+        "id": "18626",
+        "imagesize": "1",
+        "kapak": "https://aktuelstudio2.com/tr2/18626/a (1).webp",
+        "name": "Kooperatif",
+        "tarih": "29 Haziran 2026 Tarihine Özel",
+        "url_01": "https://aktuelstudio2.com/tr2/18626/a (1).webp",
+        "market": "Kooperatif"
+    },
+    {
         "id": "170765",
         "imagesize": "66",
         "kapak": "https://aktuelstudio2.com/tr/170765/1a.jpg",
@@ -259,14 +268,5 @@
         "tarih": "Şütaş Ürünleri Kampanyalar",
         "url_01": "https://aktuelstudio2.com/tr2/18612/a (1).webp",
         "market": "Hakmar"
-    },
-    {
-        "id": "18607",
-        "imagesize": "2",
-        "kapak": "https://aktuelstudio2.com/tr2/18607/a (1).webp",
-        "name": "Onur",
-        "tarih": "26-28 Haziran 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/18607/a (1).webp",
-        "market": "Onur"
     }
 ]
