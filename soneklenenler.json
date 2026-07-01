@@ -1,5 +1,14 @@
 [
     {
+        "id": "18670",
+        "imagesize": "1",
+        "kapak": "https://aktuelstudio2.com/tr2/18670/a (1).webp",
+        "name": "EnglishHome",
+        "tarih": "30 Haziran-31 Temmuz 2026\nenglishhome.com",
+        "url_01": "https://aktuelstudio2.com/tr2/18670/a (1).webp",
+        "market": "EnglishHome"
+    },
+    {
         "id": "18663",
         "imagesize": "6",
         "kapak": "https://aktuelstudio2.com/tr2/18663/a (1).webp",
@@ -259,14 +268,5 @@
         "tarih": "30 Haziran 2026                                                 (Günün Ürünü)",
         "url_01": "https://aktuelstudio2.com/tr/170768/1a.jpg",
         "market": "ŞOK"
-    },
-    {
-        "id": "170770",
-        "imagesize": "22",
-        "kapak": "https://aktuelstudio2.com/tr/170770/1a.jpg",
-        "name": "BİM",
-        "tarih": "01-07 Temmuz 2026                                                 (Eve Teslim)",
-        "url_01": "https://aktuelstudio2.com/tr/170770/1a.jpg",
-        "market": "BİM"
     }
 ]
