@@ -1,5 +1,14 @@
 [
     {
+        "id": "18676",
+        "imagesize": "100",
+        "kapak": "https://aktuelstudio2.com/tr2/18676/a (1).webp",
+        "name": "Avon",
+        "tarih": "Temmuz 2026\n(Bölüm 2)",
+        "url_01": "https://aktuelstudio2.com/tr2/18676/a (1).webp",
+        "market": "Avon"
+    },
+    {
         "id": "18685",
         "imagesize": "6",
         "kapak": "https://aktuelstudio2.com/tr2/18685/a (1).webp",
@@ -258,15 +267,6 @@
         "name": "Hakmar",
         "tarih": "30 Haziran-06 Temmuz 2026",
         "url_01": "https://aktuelstudio2.com/tr2/18652/a (1).webp",
-        "market": "Hakmar"
-    },
-    {
-        "id": "18642",
-        "imagesize": "1",
-        "kapak": "https://aktuelstudio2.com/tr2/18642/a (1).webp",
-        "name": "Hakmar",
-        "tarih": "30 Haziran-07 Temmuz 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/18642/a (1).webp",
         "market": "Hakmar"
     }
 ]
