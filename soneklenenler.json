@@ -1,5 +1,14 @@
 [
     {
+        "id": "18665",
+        "imagesize": "8",
+        "kapak": "https://aktuelstudio2.com/tr2/18665/a (1).webp",
+        "name": "Onur",
+        "tarih": "30 Haziran-13 Temmuz 2026\n(İstanbul, Trakya)",
+        "url_01": "https://aktuelstudio2.com/tr2/18665/a (1).webp",
+        "market": "Onur"
+    },
+    {
         "id": "18659",
         "imagesize": "8",
         "kapak": "https://aktuelstudio2.com/tr2/18659/a (1).webp",
@@ -258,15 +267,6 @@
         "name": "Hakmar",
         "tarih": "26 Haziran-09 Temmuz 2026",
         "url_01": "https://aktuelstudio2.com/tr2/18630/a (1).webp",
-        "market": "Hakmar"
-    },
-    {
-        "id": "18629",
-        "imagesize": "2",
-        "kapak": "https://aktuelstudio2.com/tr2/18629/a (1).webp",
-        "name": "Hakmar",
-        "tarih": "29 Haziran-02 Temmuz 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/18629/a (1).webp",
         "market": "Hakmar"
     }
 ]
