@@ -1,5 +1,14 @@
 [
     {
+        "id": "18664",
+        "imagesize": "2",
+        "kapak": "https://aktuelstudio2.com/tr2/18664/a (1).webp",
+        "name": "Carrefoursa",
+        "tarih": "30 Haziran-06 Temmuz 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/18664/a (1).webp",
+        "market": "Carrefoursa"
+    },
+    {
         "id": "18644",
         "imagesize": "2",
         "kapak": "https://aktuelstudio2.com/tr2/18644/a (1).webp",
@@ -258,15 +267,6 @@
         "name": "BİM",
         "tarih": "01-07 Temmuz 2026                                                 (Eve Teslim)",
         "url_01": "https://aktuelstudio2.com/tr/170761/1a.jpg",
-        "market": "BİM"
-    },
-    {
-        "id": "170760",
-        "imagesize": "1",
-        "kapak": "https://aktuelstudio2.com/tr/170760/1a.jpg",
-        "name": "BİM",
-        "tarih": "08-14 Temmuz 2026                                                 (Eve Teslim)",
-        "url_01": "https://aktuelstudio2.com/tr/170760/1a.jpg",
         "market": "BİM"
     }
 ]
