@@ -1,5 +1,14 @@
 [
     {
+        "id": "18692",
+        "imagesize": "50",
+        "kapak": "https://aktuelstudio2.com/tr2/18692/a (1).webp",
+        "name": "Carrefoursa",
+        "tarih": "01-15 Temmuz 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/18692/a (1).webp",
+        "market": "Carrefoursa"
+    },
+    {
         "id": "170790",
         "imagesize": "2",
         "kapak": "https://aktuelstudio2.com/tr/170790/1a.jpg",
@@ -258,15 +267,6 @@
         "name": "Onur",
         "tarih": "30 Haziran-13 Temmuz 2026\n(İstanbul, Trakya)",
         "url_01": "https://aktuelstudio2.com/tr2/18665/a (1).webp",
-        "market": "Onur"
-    },
-    {
-        "id": "18659",
-        "imagesize": "8",
-        "kapak": "https://aktuelstudio2.com/tr2/18659/a (1).webp",
-        "name": "Onur",
-        "tarih": "30 Haziran-13 Temmuz 2026\n(Bursa)",
-        "url_01": "https://aktuelstudio2.com/tr2/18659/a (1).webp",
         "market": "Onur"
     }
 ]
