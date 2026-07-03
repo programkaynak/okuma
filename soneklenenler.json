@@ -1,5 +1,14 @@
 [
     {
+        "id": "170850",
+        "imagesize": "2",
+        "kapak": "https://aktuelstudio2.com/tr/170850/1a.jpg",
+        "name": "ŞOK",
+        "tarih": "04-07 Temmuz 2026                                                 (İste Gelsin)",
+        "url_01": "https://aktuelstudio2.com/tr/170850/1a.jpg",
+        "market": "ŞOK"
+    },
+    {
         "id": "170807",
         "imagesize": "4",
         "kapak": "https://aktuelstudio2.com/tr/170807/1a.jpg",
@@ -259,14 +268,5 @@
         "tarih": "01-14 Temmuz 2026\n(İstanbu, Ankara)",
         "url_01": "https://aktuelstudio2.com/tr2/18687/a (1).webp",
         "market": "Çetinkaya"
-    },
-    {
-        "id": "18699",
-        "imagesize": "1",
-        "kapak": "https://aktuelstudio2.com/tr2/18699/a (1).webp",
-        "name": "HappyCenter",
-        "tarih": "01-05 Temmuz 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/18699/a (1).webp",
-        "market": "HappyCenter"
     }
 ]
