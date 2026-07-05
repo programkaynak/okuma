@@ -1,5 +1,14 @@
 [
     {
+        "id": "18735",
+        "imagesize": "29",
+        "kapak": "https://aktuelstudio2.com/tr2/18735/a (1).webp",
+        "name": "Eve",
+        "tarih": "03 Temmuz-04 Ağustos 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/18735/a (1).webp",
+        "market": "Eve"
+    },
+    {
         "id": "18741",
         "imagesize": "1",
         "kapak": "https://aktuelstudio2.com/tr2/18741/a (1).webp",
@@ -258,15 +267,6 @@
         "name": "Onur",
         "tarih": "02-08 Temmuz 2026\n(Bursa)",
         "url_01": "https://aktuelstudio2.com/tr2/18717/a (1).webp",
-        "market": "Onur"
-    },
-    {
-        "id": "18716",
-        "imagesize": "4",
-        "kapak": "https://aktuelstudio2.com/tr2/18716/a (1).webp",
-        "name": "Onur",
-        "tarih": "02-08 Temmuz 2026\n(İstanbul)",
-        "url_01": "https://aktuelstudio2.com/tr2/18716/a (1).webp",
         "market": "Onur"
     }
 ]
