@@ -1,5 +1,14 @@
 [
     {
+        "id": "18733",
+        "imagesize": "28",
+        "kapak": "https://aktuelstudio2.com/tr2/18733/a (1).webp",
+        "name": "Bauhaus",
+        "tarih": "04-31 Temmuz 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/18733/a (1).webp",
+        "market": "Bauhaus"
+    },
+    {
         "id": "18735",
         "imagesize": "29",
         "kapak": "https://aktuelstudio2.com/tr2/18735/a (1).webp",
@@ -259,14 +268,5 @@
         "tarih": "01-03 Temmuz 2026",
         "url_01": "https://aktuelstudio2.com/tr2/18720/a (1).webp",
         "market": "Hakmar"
-    },
-    {
-        "id": "18717",
-        "imagesize": "4",
-        "kapak": "https://aktuelstudio2.com/tr2/18717/a (1).webp",
-        "name": "Onur",
-        "tarih": "02-08 Temmuz 2026\n(Bursa)",
-        "url_01": "https://aktuelstudio2.com/tr2/18717/a (1).webp",
-        "market": "Onur"
     }
 ]
