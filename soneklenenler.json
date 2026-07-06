@@ -1,5 +1,14 @@
 [
     {
+        "id": "18755",
+        "imagesize": "1",
+        "kapak": "https://aktuelstudio2.com/tr2/18755/a (1).webp",
+        "name": "EnglishHome",
+        "tarih": "Temmuz 2026\nenglishhome.com",
+        "url_01": "https://aktuelstudio2.com/tr2/18755/a (1).webp",
+        "market": "EnglishHome"
+    },
+    {
         "id": "18753",
         "imagesize": "3",
         "kapak": "https://aktuelstudio2.com/tr2/18753/a (1).webp",
@@ -258,15 +267,6 @@
         "name": "A101",
         "tarih": "04-10 Temmuz 2026                                                  (Haftanın Yıldızları)",
         "url_01": "https://aktuelstudio2.com/tr/170855/1a.jpg",
-        "market": "A101"
-    },
-    {
-        "id": "170813",
-        "imagesize": "12",
-        "kapak": "https://aktuelstudio2.com/tr/170813/1a.jpg",
-        "name": "A101",
-        "tarih": "09-15 Temmuz 2026",
-        "url_01": "https://aktuelstudio2.com/tr/170813/1a.jpg",
         "market": "A101"
     }
 ]
