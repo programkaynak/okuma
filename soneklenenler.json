@@ -1,5 +1,23 @@
 [
     {
+        "id": "18765",
+        "imagesize": "2",
+        "kapak": "https://aktuelstudio2.com/tr2/18765/a (1).webp",
+        "name": "Kooperatif",
+        "tarih": "07-13 Temmuz 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/18765/a (1).webp",
+        "market": "Kooperatif"
+    },
+    {
+        "id": "18757",
+        "imagesize": "1",
+        "kapak": "https://aktuelstudio2.com/tr2/18757/a (1).webp",
+        "name": "EnglishHome",
+        "tarih": "Temmuz 2026\nenglishhome.com",
+        "url_01": "https://aktuelstudio2.com/tr2/18757/a (1).webp",
+        "market": "EnglishHome"
+    },
+    {
         "id": "18756",
         "imagesize": "1",
         "kapak": "https://aktuelstudio2.com/tr2/18756/a (1).webp",
@@ -249,24 +267,6 @@
         "name": "A101",
         "tarih": "04-10 Temmuz 2026",
         "url_01": "https://aktuelstudio2.com/tr/170821/1a.jpg",
-        "market": "A101"
-    },
-    {
-        "id": "170820",
-        "imagesize": "1",
-        "kapak": "https://aktuelstudio2.com/tr/170820/1a.jpg",
-        "name": "A101",
-        "tarih": "04-17 Temmuz 2026",
-        "url_01": "https://aktuelstudio2.com/tr/170820/1a.jpg",
-        "market": "A101"
-    },
-    {
-        "id": "170856",
-        "imagesize": "64",
-        "kapak": "https://aktuelstudio2.com/tr/170856/1a.jpg",
-        "name": "A101",
-        "tarih": "04-10 Temmuz 2026                                                  (Haftanın Yıldızları)",
-        "url_01": "https://aktuelstudio2.com/tr/170856/1a.jpg",
         "market": "A101"
     }
 ]
