@@ -1,5 +1,23 @@
 [
     {
+        "id": "170876",
+        "imagesize": "4",
+        "kapak": "https://aktuelstudio2.com/tr/170876/1a.jpg",
+        "name": "ŞOK",
+        "tarih": "08-14 Temmuz 2026",
+        "url_01": "https://aktuelstudio2.com/tr/170876/1a.jpg",
+        "market": "ŞOK"
+    },
+    {
+        "id": "170875",
+        "imagesize": "53",
+        "kapak": "https://aktuelstudio2.com/tr/170875/1a.jpg",
+        "name": "ŞOK",
+        "tarih": "08-14 Temmuz 2026                                                  (Detaylı Ürünler)",
+        "url_01": "https://aktuelstudio2.com/tr/170875/1a.jpg",
+        "market": "ŞOK"
+    },
+    {
         "id": "170874",
         "imagesize": "2",
         "kapak": "https://aktuelstudio2.com/tr/170874/1a.jpg",
@@ -250,23 +268,5 @@
         "tarih": "03-05 Temmuz 2026",
         "url_01": "https://aktuelstudio2.com/tr2/18732/a (1).webp",
         "market": "Vatan"
-    },
-    {
-        "id": "18733",
-        "imagesize": "28",
-        "kapak": "https://aktuelstudio2.com/tr2/18733/a (1).webp",
-        "name": "Bauhaus",
-        "tarih": "04-31 Temmuz 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/18733/a (1).webp",
-        "market": "Bauhaus"
-    },
-    {
-        "id": "18735",
-        "imagesize": "29",
-        "kapak": "https://aktuelstudio2.com/tr2/18735/a (1).webp",
-        "name": "Eve",
-        "tarih": "03 Temmuz-04 Ağustos 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/18735/a (1).webp",
-        "market": "Eve"
     }
 ]
