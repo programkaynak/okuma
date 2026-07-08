@@ -1,5 +1,14 @@
 [
     {
+        "id": "18797",
+        "imagesize": "7",
+        "kapak": "https://aktuelstudio2.com/tr2/18797/a (1).webp",
+        "name": "Metro",
+        "tarih": "08-14 Temmuz 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/18797/a (1).webp",
+        "market": "Metro"
+    },
+    {
         "id": "18796",
         "imagesize": "9",
         "kapak": "https://aktuelstudio2.com/tr2/18796/a (1).jpg",
@@ -258,15 +267,6 @@
         "name": "EnglishHome",
         "tarih": "Temmuz 2026\nenglishhome.com",
         "url_01": "https://aktuelstudio2.com/tr2/18757/a (1).webp",
-        "market": "EnglishHome"
-    },
-    {
-        "id": "18756",
-        "imagesize": "1",
-        "kapak": "https://aktuelstudio2.com/tr2/18756/a (1).webp",
-        "name": "EnglishHome",
-        "tarih": "Temmuz 2026\nenglishhome.com",
-        "url_01": "https://aktuelstudio2.com/tr2/18756/a (1).webp",
         "market": "EnglishHome"
     }
 ]
