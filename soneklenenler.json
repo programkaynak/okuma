@@ -1,5 +1,14 @@
 [
     {
+        "id": "170880",
+        "imagesize": "4",
+        "kapak": "https://aktuelstudio2.com/tr/170880/1a.jpg",
+        "name": "A101",
+        "tarih": "08-11 Temmuz 2026                                                  (Yazın Yıldızları)",
+        "url_01": "https://aktuelstudio2.com/tr/170880/1a.jpg",
+        "market": "A101"
+    },
+    {
         "id": "170876",
         "imagesize": "4",
         "kapak": "https://aktuelstudio2.com/tr/170876/1a.jpg",
@@ -259,14 +268,5 @@
         "tarih": "12-18 Temmuz 2026",
         "url_01": "https://aktuelstudio2.com/tr/170860/1a.jpg",
         "market": "BİM"
-    },
-    {
-        "id": "18732",
-        "imagesize": "1",
-        "kapak": "https://aktuelstudio2.com/tr2/18732/a (1).webp",
-        "name": "Vatan",
-        "tarih": "03-05 Temmuz 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/18732/a (1).webp",
-        "market": "Vatan"
     }
 ]
