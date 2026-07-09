@@ -1,5 +1,14 @@
 [
     {
+        "id": "18806",
+        "imagesize": "48",
+        "kapak": "https://aktuelstudio2.com/tr2/18806/a (1).webp",
+        "name": "Metro",
+        "tarih": "İçecek Trendleri ve Çözümleri 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/18806/a (1).webp",
+        "market": "Metro"
+    },
+    {
         "id": "18805",
         "imagesize": "1",
         "kapak": "https://aktuelstudio2.com/tr2/18805/a (1).webp",
@@ -258,15 +267,6 @@
         "name": "ŞOK",
         "tarih": "08-14 Temmuz 2026                                                  (Win Kampanya)",
         "url_01": "https://aktuelstudio2.com/tr/170873/1a.jpg",
-        "market": "ŞOK"
-    },
-    {
-        "id": "170867",
-        "imagesize": "6",
-        "kapak": "https://aktuelstudio2.com/tr/170867/1a.jpg",
-        "name": "ŞOK",
-        "tarih": "06-12 Temmuz 2026                                                  (Detaylı Ürünler)",
-        "url_01": "https://aktuelstudio2.com/tr/170867/1a.jpg",
         "market": "ŞOK"
     }
 ]
