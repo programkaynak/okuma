@@ -1,5 +1,14 @@
 [
     {
+        "id": "18811",
+        "imagesize": "29",
+        "kapak": "https://aktuelstudio2.com/tr2/18811/a (1).webp",
+        "name": "Eve",
+        "tarih": "08-14 Temmuz 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/18811/a (1).webp",
+        "market": "Eve"
+    },
+    {
         "id": "18808",
         "imagesize": "20",
         "kapak": "https://aktuelstudio2.com/tr2/18808/a (1).webp",
@@ -258,15 +267,6 @@
         "name": "ŞOK",
         "tarih": "08-14 Temmuz 2026",
         "url_01": "https://aktuelstudio2.com/tr/170876/1a.jpg",
-        "market": "ŞOK"
-    },
-    {
-        "id": "170875",
-        "imagesize": "53",
-        "kapak": "https://aktuelstudio2.com/tr/170875/1a.jpg",
-        "name": "ŞOK",
-        "tarih": "08-14 Temmuz 2026                                                  (Detaylı Ürünler)",
-        "url_01": "https://aktuelstudio2.com/tr/170875/1a.jpg",
         "market": "ŞOK"
     }
 ]
