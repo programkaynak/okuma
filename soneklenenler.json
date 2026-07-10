@@ -1,5 +1,14 @@
 [
     {
+        "id": "18842",
+        "imagesize": "113",
+        "kapak": "https://aktuelstudio2.com/tr2/18842/a (1).webp",
+        "name": "Migros",
+        "tarih": "09-22 Temmuz 2026\n(5M)",
+        "url_01": "https://aktuelstudio2.com/tr2/18842/a (1).webp",
+        "market": "Migros"
+    },
+    {
         "id": "18841",
         "imagesize": "55",
         "kapak": "https://aktuelstudio2.com/tr2/18841/a (1).webp",
@@ -258,15 +267,6 @@
         "name": "Metro",
         "tarih": "01-31 Temmuz 2026",
         "url_01": "https://aktuelstudio2.com/tr2/18798/a (1).webp",
-        "market": "Metro"
-    },
-    {
-        "id": "18797",
-        "imagesize": "7",
-        "kapak": "https://aktuelstudio2.com/tr2/18797/a (1).webp",
-        "name": "Metro",
-        "tarih": "08-14 Temmuz 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/18797/a (1).webp",
         "market": "Metro"
     }
 ]
