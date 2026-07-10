@@ -1,5 +1,14 @@
 [
     {
+        "id": "18839",
+        "imagesize": "53",
+        "kapak": "https://aktuelstudio2.com/tr2/18839/a (1).webp",
+        "name": "Carrefoursa",
+        "tarih": "09-22 Temmuz 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/18839/a (1).webp",
+        "market": "Carrefoursa"
+    },
+    {
         "id": "18842",
         "imagesize": "113",
         "kapak": "https://aktuelstudio2.com/tr2/18842/a (1).webp",
@@ -258,15 +267,6 @@
         "name": "Metro",
         "tarih": "08-14 Temmuz 2026",
         "url_01": "https://aktuelstudio2.com/tr2/18799/a (1).webp",
-        "market": "Metro"
-    },
-    {
-        "id": "18798",
-        "imagesize": "28",
-        "kapak": "https://aktuelstudio2.com/tr2/18798/a (1).webp",
-        "name": "Metro",
-        "tarih": "01-31 Temmuz 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/18798/a (1).webp",
         "market": "Metro"
     }
 ]
