@@ -1,5 +1,14 @@
 [
     {
+        "id": "18828",
+        "imagesize": "4",
+        "kapak": "https://aktuelstudio2.com/tr2/18828/a (1).webp",
+        "name": "Onur",
+        "tarih": "09-15 Temmuz 2026\n(İstanbul)",
+        "url_01": "https://aktuelstudio2.com/tr2/18828/a (1).webp",
+        "market": "Onur"
+    },
+    {
         "id": "18833",
         "imagesize": "4",
         "kapak": "https://aktuelstudio2.com/tr2/18833/a (1).webp",
@@ -259,14 +268,5 @@
         "tarih": "Temmuz 2026\nenglishhome.com",
         "url_01": "https://aktuelstudio2.com/tr2/18792/a (1).webp",
         "market": "EnglishHome"
-    },
-    {
-        "id": "18793",
-        "imagesize": "16",
-        "kapak": "https://aktuelstudio2.com/tr2/18793/a (1).webp",
-        "name": "Tekzen",
-        "tarih": "Temmuz-Ağustos 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/18793/a (1).webp",
-        "market": "Tekzen"
     }
 ]
