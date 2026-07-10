@@ -1,5 +1,23 @@
 [
     {
+        "id": "18841",
+        "imagesize": "55",
+        "kapak": "https://aktuelstudio2.com/tr2/18841/a (1).webp",
+        "name": "Migros",
+        "tarih": "09-22 Temmuz 2026\n(5M)",
+        "url_01": "https://aktuelstudio2.com/tr2/18841/a (1).webp",
+        "market": "Migros"
+    },
+    {
+        "id": "170951",
+        "imagesize": "36",
+        "kapak": "https://aktuelstudio2.com/tr/170951/1a.jpg",
+        "name": "ŞOK",
+        "tarih": "11-14 Temmuz 2026                                                  (Detaylı Ürünler)",
+        "url_01": "https://aktuelstudio2.com/tr/170951/1a.jpg",
+        "market": "ŞOK"
+    },
+    {
         "id": "170950",
         "imagesize": "8",
         "kapak": "https://aktuelstudio2.com/tr/170950/1a.jpg",
@@ -250,23 +268,5 @@
         "tarih": "08-14 Temmuz 2026",
         "url_01": "https://aktuelstudio2.com/tr2/18797/a (1).webp",
         "market": "Metro"
-    },
-    {
-        "id": "18796",
-        "imagesize": "9",
-        "kapak": "https://aktuelstudio2.com/tr2/18796/a (1).jpg",
-        "name": "Metro",
-        "tarih": "06-31 Temmuz 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/18796/a (1).jpg",
-        "market": "Metro"
-    },
-    {
-        "id": "18781",
-        "imagesize": "1",
-        "kapak": "https://aktuelstudio2.com/tr2/18781/a (1).webp",
-        "name": "Kooperatif",
-        "tarih": "08 Temmuz 2026 Tarihine Özel",
-        "url_01": "https://aktuelstudio2.com/tr2/18781/a (1).webp",
-        "market": "Kooperatif"
     }
 ]
