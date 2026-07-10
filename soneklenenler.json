@@ -1,5 +1,23 @@
 [
     {
+        "id": "18836",
+        "imagesize": "2",
+        "kapak": "https://aktuelstudio2.com/tr2/18836/a (1).webp",
+        "name": "Hakmar",
+        "tarih": "16-22 Temmuz 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/18836/a (1).webp",
+        "market": "Hakmar"
+    },
+    {
+        "id": "18835",
+        "imagesize": "1",
+        "kapak": "https://aktuelstudio2.com/tr2/18835/a (1).webp",
+        "name": "Hakmar",
+        "tarih": "10-12 Temmuz 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/18835/a (1).webp",
+        "market": "Hakmar"
+    },
+    {
         "id": "18834",
         "imagesize": "1",
         "kapak": "https://aktuelstudio2.com/tr2/18834/a (1).webp",
@@ -250,23 +268,5 @@
         "tarih": "09-22 Temmuz 2026",
         "url_01": "https://aktuelstudio2.com/tr2/18809/a (1).webp",
         "market": "Migros"
-    },
-    {
-        "id": "170888",
-        "imagesize": "2",
-        "kapak": "https://aktuelstudio2.com/tr/170888/1a.jpg",
-        "name": "ŞOK",
-        "tarih": "09-10 Temmuz 2026",
-        "url_01": "https://aktuelstudio2.com/tr/170888/1a.jpg",
-        "market": "ŞOK"
-    },
-    {
-        "id": "170890",
-        "imagesize": "37",
-        "kapak": "https://aktuelstudio2.com/tr/170890/1a.jpg",
-        "name": "BİM",
-        "tarih": "10-16 Temmuz 2026                                                  (Detaylı Ürünler)",
-        "url_01": "https://aktuelstudio2.com/tr/170890/1a.jpg",
-        "market": "BİM"
     }
 ]
