@@ -1,5 +1,14 @@
 [
     {
+        "id": "18825",
+        "imagesize": "7",
+        "kapak": "https://aktuelstudio2.com/tr2/18825/a (1).webp",
+        "name": "Seyhanlar",
+        "tarih": "10 Temmuz 2026 Tarihine Özel",
+        "url_01": "https://aktuelstudio2.com/tr2/18825/a (1).webp",
+        "market": "Seyhanlar"
+    },
+    {
         "id": "18838",
         "imagesize": "1",
         "kapak": "https://aktuelstudio2.com/tr2/18838/a (1).webp",
@@ -259,14 +268,5 @@
         "tarih": "İçecek Trendleri ve Çözümleri 2026",
         "url_01": "https://aktuelstudio2.com/tr2/18806/a (1).webp",
         "market": "Metro"
-    },
-    {
-        "id": "18805",
-        "imagesize": "1",
-        "kapak": "https://aktuelstudio2.com/tr2/18805/a (1).webp",
-        "name": "Kooperatif",
-        "tarih": "09 Temmuz 2026 Tarihine Özel",
-        "url_01": "https://aktuelstudio2.com/tr2/18805/a (1).webp",
-        "market": "Kooperatif"
     }
 ]
