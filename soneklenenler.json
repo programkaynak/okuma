@@ -1,5 +1,23 @@
 [
     {
+        "id": "18830",
+        "imagesize": "4",
+        "kapak": "https://aktuelstudio2.com/tr2/18830/a (1).webp",
+        "name": "Onur",
+        "tarih": "09-15 Temmuz 2026\n(Trakye)",
+        "url_01": "https://aktuelstudio2.com/tr2/18830/a (1).webp",
+        "market": "Onur"
+    },
+    {
+        "id": "18829",
+        "imagesize": "4",
+        "kapak": "https://aktuelstudio2.com/tr2/18829/a (1).webp",
+        "name": "Onur",
+        "tarih": "09-15 Temmuz 2026\n(Bursa)",
+        "url_01": "https://aktuelstudio2.com/tr2/18829/a (1).webp",
+        "market": "Onur"
+    },
+    {
         "id": "18828",
         "imagesize": "4",
         "kapak": "https://aktuelstudio2.com/tr2/18828/a (1).webp",
@@ -250,23 +268,5 @@
         "tarih": "09-15 Temmuz 2026                                                  (Online Özel)",
         "url_01": "https://aktuelstudio2.com/tr/170887/1a.jpg",
         "market": "A101"
-    },
-    {
-        "id": "170886",
-        "imagesize": "1",
-        "kapak": "https://aktuelstudio2.com/tr/170886/1a.jpg",
-        "name": "A101",
-        "tarih": "04-31 Temmuz 2026",
-        "url_01": "https://aktuelstudio2.com/tr/170886/1a.jpg",
-        "market": "A101"
-    },
-    {
-        "id": "18792",
-        "imagesize": "1",
-        "kapak": "https://aktuelstudio2.com/tr2/18792/a (1).webp",
-        "name": "EnglishHome",
-        "tarih": "Temmuz 2026\nenglishhome.com",
-        "url_01": "https://aktuelstudio2.com/tr2/18792/a (1).webp",
-        "market": "EnglishHome"
     }
 ]
