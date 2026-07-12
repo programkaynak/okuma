@@ -1,5 +1,23 @@
 [
     {
+        "id": "170965",
+        "imagesize": "56",
+        "kapak": "https://aktuelstudio2.com/tr/170965/1a.jpg",
+        "name": "BİM",
+        "tarih": "14-20 Temmuz 2026                                                  (Detaylı Ürünler)",
+        "url_01": "https://aktuelstudio2.com/tr/170965/1a.jpg",
+        "market": "BİM"
+    },
+    {
+        "id": "18859",
+        "imagesize": "2",
+        "kapak": "https://aktuelstudio2.com/tr2/18859/a (1).jpg",
+        "name": "Eve",
+        "tarih": "08-12 Temmuz 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/18859/a (1).jpg",
+        "market": "Eve"
+    },
+    {
         "id": "18858",
         "imagesize": "11",
         "kapak": "https://aktuelstudio2.com/tr2/18858/a (1).webp",
@@ -250,23 +268,5 @@
         "tarih": "10 Temmuz 2026 Tarihine Özel",
         "url_01": "https://aktuelstudio2.com/tr2/18831/a (1).webp",
         "market": "Gratis"
-    },
-    {
-        "id": "18826",
-        "imagesize": "2",
-        "kapak": "https://aktuelstudio2.com/tr2/18826/a (1).webp",
-        "name": "Çağri",
-        "tarih": "09-12 Temmuz 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/18826/a (1).webp",
-        "market": "Çağri"
-    },
-    {
-        "id": "18825",
-        "imagesize": "7",
-        "kapak": "https://aktuelstudio2.com/tr2/18825/a (1).webp",
-        "name": "Seyhanlar",
-        "tarih": "10 Temmuz 2026 Tarihine Özel",
-        "url_01": "https://aktuelstudio2.com/tr2/18825/a (1).webp",
-        "market": "Seyhanlar"
     }
 ]
