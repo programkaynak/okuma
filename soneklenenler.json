@@ -1,5 +1,14 @@
 [
     {
+        "id": "18867",
+        "imagesize": "2",
+        "kapak": "https://aktuelstudio2.com/tr2/18867/a (1).webp",
+        "name": "Kooperatif",
+        "tarih": "14-20 Temmuz 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/18867/a (1).webp",
+        "market": "Kooperatif"
+    },
+    {
         "id": "18866",
         "imagesize": "5",
         "kapak": "https://aktuelstudio2.com/tr2/18866/a (1).webp",
@@ -258,15 +267,6 @@
         "name": "A101",
         "tarih": "11-14 Temmuz 2026",
         "url_01": "https://aktuelstudio2.com/tr/170924/1a.jpg",
-        "market": "A101"
-    },
-    {
-        "id": "170923",
-        "imagesize": "3",
-        "kapak": "https://aktuelstudio2.com/tr/170923/1a.jpg",
-        "name": "A101",
-        "tarih": "11-17 Temmuz 2026",
-        "url_01": "https://aktuelstudio2.com/tr/170923/1a.jpg",
         "market": "A101"
     }
 ]
