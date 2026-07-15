@@ -1,5 +1,14 @@
 [
     {
+        "id": "18888",
+        "imagesize": "1",
+        "kapak": "https://aktuelstudio2.com/tr2/18888/a (1).webp",
+        "name": "HappyCenter",
+        "tarih": "15 Temmuz 2026 Tarihine Özel",
+        "url_01": "https://aktuelstudio2.com/tr2/18888/a (1).webp",
+        "market": "HappyCenter"
+    },
+    {
         "id": "18890",
         "imagesize": "8",
         "kapak": "https://aktuelstudio2.com/tr2/18890/a (1).webp",
@@ -259,14 +268,5 @@
         "tarih": "11 Temmuz 2026 Tarihine Özel",
         "url_01": "https://aktuelstudio2.com/tr2/18856/a (1).webp",
         "market": "Gratis"
-    },
-    {
-        "id": "18854",
-        "imagesize": "1",
-        "kapak": "https://aktuelstudio2.com/tr2/18854/a (1).webp",
-        "name": "HappyCenter",
-        "tarih": "10-12 Temmuz 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/18854/a (1).webp",
-        "market": "HappyCenter"
     }
 ]
