@@ -1,5 +1,14 @@
 [
     {
+        "id": "171140",
+        "imagesize": "1",
+        "kapak": "https://aktuelstudio2.com/tr/171140/1a.jpg",
+        "name": "ŞOK",
+        "tarih": "18-24 Temmuz 2026",
+        "url_01": "https://aktuelstudio2.com/tr/171140/1a.jpg",
+        "market": "ŞOK"
+    },
+    {
         "id": "171105",
         "imagesize": "1",
         "kapak": "https://aktuelstudio2.com/tr/171105/1a.jpg",
@@ -258,15 +267,6 @@
         "name": "Çetinkaya",
         "tarih": "16-19 Temmuz 2026\n(Adana, Mersin, Gaziantep)",
         "url_01": "https://aktuelstudio2.com/tr2/18909/a (1).webp",
-        "market": "Çetinkaya"
-    },
-    {
-        "id": "18908",
-        "imagesize": "39",
-        "kapak": "https://aktuelstudio2.com/tr2/18908/a (1).webp",
-        "name": "Çetinkaya",
-        "tarih": "16-19 Temmuz 2026\n(İstanbul, Ankara)",
-        "url_01": "https://aktuelstudio2.com/tr2/18908/a (1).webp",
         "market": "Çetinkaya"
     }
 ]
