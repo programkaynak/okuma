@@ -1,5 +1,14 @@
 [
     {
+        "id": "18955",
+        "imagesize": "4",
+        "kapak": "https://aktuelstudio2.com/tr2/18955/a (1).webp",
+        "name": "Onur",
+        "tarih": "16-22 Temmuz 2026\n(Trakya)",
+        "url_01": "https://aktuelstudio2.com/tr2/18955/a (1).webp",
+        "market": "Onur"
+    },
+    {
         "id": "18954",
         "imagesize": "4",
         "kapak": "https://aktuelstudio2.com/tr2/18954/a (1).webp",
@@ -258,15 +267,6 @@
         "name": "Metro",
         "tarih": "17-21 Temmuz 2026",
         "url_01": "https://aktuelstudio2.com/tr2/18937/a (1).webp",
-        "market": "Metro"
-    },
-    {
-        "id": "18936",
-        "imagesize": "24",
-        "kapak": "https://aktuelstudio2.com/tr2/18936/a (1).webp",
-        "name": "Metro",
-        "tarih": "16-19 Temmuz 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/18936/a (1).webp",
         "market": "Metro"
     }
 ]
