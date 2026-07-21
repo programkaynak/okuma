@@ -1,5 +1,14 @@
 [
     {
+        "id": "171172",
+        "imagesize": "9",
+        "kapak": "https://aktuelstudio2.com/tr/171172/1a.jpg",
+        "name": "BİM",
+        "tarih": "22-28 Temmuz 2026                                                 (Eve Teslim)",
+        "url_01": "https://aktuelstudio2.com/tr/171172/1a.jpg",
+        "market": "BİM"
+    },
+    {
         "id": "171167",
         "imagesize": "3",
         "kapak": "https://aktuelstudio2.com/tr/171167/1a.jpg",
@@ -259,14 +268,5 @@
         "tarih": "15-28 Temmuz 2026",
         "url_01": "https://aktuelstudio2.com/tr2/18958/a (1).jpg",
         "market": "Bizim"
-    },
-    {
-        "id": "18951",
-        "imagesize": "1",
-        "kapak": "https://aktuelstudio2.com/tr2/18951/a (1).webp",
-        "name": "Kooperatif",
-        "tarih": "18 Temmuz 2026 Tarihine Özel",
-        "url_01": "https://aktuelstudio2.com/tr2/18951/a (1).webp",
-        "market": "Kooperatif"
     }
 ]
