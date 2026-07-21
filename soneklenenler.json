@@ -1,5 +1,14 @@
 [
     {
+        "id": "171173",
+        "imagesize": "1",
+        "kapak": "https://aktuelstudio2.com/tr/171173/1a.jpg",
+        "name": "ŞOK",
+        "tarih": "22-28 Temmuz 2026                                                  (Win Kampanya)",
+        "url_01": "https://aktuelstudio2.com/tr/171173/1a.jpg",
+        "market": "ŞOK"
+    },
+    {
         "id": "171170",
         "imagesize": "12",
         "kapak": "https://aktuelstudio2.com/tr/171170/1a.jpg",
@@ -258,15 +267,6 @@
         "name": "Onur",
         "tarih": "16-22 Temmuz 2026\n(Bursa)",
         "url_01": "https://aktuelstudio2.com/tr2/18954/a (1).webp",
-        "market": "Onur"
-    },
-    {
-        "id": "18953",
-        "imagesize": "4",
-        "kapak": "https://aktuelstudio2.com/tr2/18953/a (1).webp",
-        "name": "Onur",
-        "tarih": "16-22 Temmuz 2026\n(İstanbul)",
-        "url_01": "https://aktuelstudio2.com/tr2/18953/a (1).webp",
         "market": "Onur"
     }
 ]
