@@ -1,5 +1,14 @@
 [
     {
+        "id": "18978",
+        "imagesize": "1",
+        "kapak": "https://aktuelstudio2.com/tr2/18978/a (1).webp",
+        "name": "Seyhanlar",
+        "tarih": "20-26 Temmuz 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/18978/a (1).webp",
+        "market": "Seyhanlar"
+    },
+    {
         "id": "18980",
         "imagesize": "4",
         "kapak": "https://aktuelstudio2.com/tr2/18980/a (1).webp",
@@ -258,15 +267,6 @@
         "name": "A101",
         "tarih": "18-24 Temmuz 2026                                                  (Haftanın Yıldızları)",
         "url_01": "https://aktuelstudio2.com/tr/171155/1a.jpg",
-        "market": "A101"
-    },
-    {
-        "id": "171110",
-        "imagesize": "10",
-        "kapak": "https://aktuelstudio2.com/tr/171110/1a.jpg",
-        "name": "A101",
-        "tarih": "23-29 Temmuz 2026",
-        "url_01": "https://aktuelstudio2.com/tr/171110/1a.jpg",
         "market": "A101"
     }
 ]
