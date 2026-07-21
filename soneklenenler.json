@@ -1,5 +1,14 @@
 [
     {
+        "id": "19009",
+        "imagesize": "4",
+        "kapak": "https://aktuelstudio2.com/tr2/19009/a (1).webp",
+        "name": "Metro",
+        "tarih": "16-21 Temmuz 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/19009/a (1).webp",
+        "market": "Metro"
+    },
+    {
         "id": "19008",
         "imagesize": "5",
         "kapak": "https://aktuelstudio2.com/tr2/19008/a (1).webp",
@@ -258,15 +267,6 @@
         "name": "BİM",
         "tarih": "18-24 Temmuz 2026                                                  (Detaylı Ürünler)",
         "url_01": "https://aktuelstudio2.com/tr/171146/1a.jpg",
-        "market": "BİM"
-    },
-    {
-        "id": "171145",
-        "imagesize": "3",
-        "kapak": "https://aktuelstudio2.com/tr/171145/1a.jpg",
-        "name": "BİM",
-        "tarih": "18-20 Temmuz 2026",
-        "url_01": "https://aktuelstudio2.com/tr/171145/1a.jpg",
         "market": "BİM"
     }
 ]
