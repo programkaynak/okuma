@@ -1,5 +1,14 @@
 [
     {
+        "id": "171175",
+        "imagesize": "5",
+        "kapak": "https://aktuelstudio2.com/tr/171175/1a.jpg",
+        "name": "ŞOK",
+        "tarih": "22-28 Temmuz 2026",
+        "url_01": "https://aktuelstudio2.com/tr/171175/1a.jpg",
+        "market": "ŞOK"
+    },
+    {
         "id": "171174",
         "imagesize": "1",
         "kapak": "https://aktuelstudio2.com/tr/171174/1a.jpg",
@@ -259,14 +268,5 @@
         "tarih": "18-19 Temmuz 2026",
         "url_01": "https://aktuelstudio2.com/tr2/18952/a (1).webp",
         "market": "HappyCenter"
-    },
-    {
-        "id": "18955",
-        "imagesize": "4",
-        "kapak": "https://aktuelstudio2.com/tr2/18955/a (1).webp",
-        "name": "Onur",
-        "tarih": "16-22 Temmuz 2026\n(Trakya)",
-        "url_01": "https://aktuelstudio2.com/tr2/18955/a (1).webp",
-        "market": "Onur"
     }
 ]
