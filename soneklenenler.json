@@ -1,5 +1,14 @@
 [
     {
+        "id": "19039",
+        "imagesize": "1",
+        "kapak": "https://aktuelstudio2.com/tr2/19039/a (1).webp",
+        "name": "Carrefoursa",
+        "tarih": "21-27 Temmuz 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/19039/a (1).webp",
+        "market": "Carrefoursa"
+    },
+    {
         "id": "19038",
         "imagesize": "3",
         "kapak": "https://aktuelstudio2.com/tr2/19038/a (1).webp",
@@ -258,15 +267,6 @@
         "name": "Migros",
         "tarih": "09-22 Temmuz 2026\n(5M)",
         "url_01": "https://aktuelstudio2.com/tr2/18987/a (1).webp",
-        "market": "Migros"
-    },
-    {
-        "id": "18986",
-        "imagesize": "111",
-        "kapak": "https://aktuelstudio2.com/tr2/18986/a (1).webp",
-        "name": "Migros",
-        "tarih": "09-22 Temmuz 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/18986/a (1).webp",
         "market": "Migros"
     }
 ]
