@@ -1,5 +1,14 @@
 [
     {
+        "id": "19037",
+        "imagesize": "1",
+        "kapak": "https://aktuelstudio2.com/tr2/19037/a (1).webp",
+        "name": "Çağri",
+        "tarih": "26 Temmuz 2026 Tarihine Özel",
+        "url_01": "https://aktuelstudio2.com/tr2/19037/a (1).webp",
+        "market": "Çağri"
+    },
+    {
         "id": "19036",
         "imagesize": "1",
         "kapak": "https://aktuelstudio2.com/tr2/19036/a (1).webp",
@@ -258,15 +267,6 @@
         "name": "Metro",
         "tarih": "16-21 Temmuz 2026",
         "url_01": "https://aktuelstudio2.com/tr2/19006/a (1).webp",
-        "market": "Metro"
-    },
-    {
-        "id": "19005",
-        "imagesize": "26",
-        "kapak": "https://aktuelstudio2.com/tr2/19005/a (1).webp",
-        "name": "Metro",
-        "tarih": "16-21 Temmuz 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/19005/a (1).webp",
         "market": "Metro"
     }
 ]
