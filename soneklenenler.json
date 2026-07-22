@@ -1,5 +1,14 @@
 [
     {
+        "id": "19040",
+        "imagesize": "1",
+        "kapak": "https://aktuelstudio2.com/tr2/19040/a (1).webp",
+        "name": "HappyCenter",
+        "tarih": "22 Temmuz 2026 Tarihine Özel",
+        "url_01": "https://aktuelstudio2.com/tr2/19040/a (1).webp",
+        "market": "HappyCenter"
+    },
+    {
         "id": "19033",
         "imagesize": "1",
         "kapak": "https://aktuelstudio2.com/tr2/19033/a (1).webp",
@@ -259,14 +268,5 @@
         "tarih": "09-22 Temmuz 2026",
         "url_01": "https://aktuelstudio2.com/tr2/18991/a (1).webp",
         "market": "Carrefoursa"
-    },
-    {
-        "id": "18988",
-        "imagesize": "55",
-        "kapak": "https://aktuelstudio2.com/tr2/18988/a (1).webp",
-        "name": "Migros",
-        "tarih": "09-22 Temmuz 2026\n(5M)",
-        "url_01": "https://aktuelstudio2.com/tr2/18988/a (1).webp",
-        "market": "Migros"
     }
 ]
