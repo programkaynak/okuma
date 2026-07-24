@@ -1,5 +1,14 @@
 [
     {
+        "id": "171251",
+        "imagesize": "2",
+        "kapak": "https://aktuelstudio2.com/tr/171251/1a.jpg",
+        "name": "ŞOK",
+        "tarih": "25-28 Temmuz 2026",
+        "url_01": "https://aktuelstudio2.com/tr/171251/1a.jpg",
+        "market": "ŞOK"
+    },
+    {
         "id": "171250",
         "imagesize": "1",
         "kapak": "https://aktuelstudio2.com/tr/171250/1a.jpg",
@@ -259,14 +268,5 @@
         "tarih": "23 Temmuz-05 Ağustos 2026",
         "url_01": "https://aktuelstudio2.com/tr2/19055/a (1).webp",
         "market": "Migros"
-    },
-    {
-        "id": "171191",
-        "imagesize": "2",
-        "kapak": "https://aktuelstudio2.com/tr/171191/1a.jpg",
-        "name": "ŞOK",
-        "tarih": "23-24 Temmuz 2026",
-        "url_01": "https://aktuelstudio2.com/tr/171191/1a.jpg",
-        "market": "ŞOK"
     }
 ]
