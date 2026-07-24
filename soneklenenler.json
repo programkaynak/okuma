@@ -1,5 +1,14 @@
 [
     {
+        "id": "171198",
+        "imagesize": "2",
+        "kapak": "https://aktuelstudio2.com/tr/171198/1a.jpg",
+        "name": "ŞOK",
+        "tarih": "22-31 Temmuz 2026",
+        "url_01": "https://aktuelstudio2.com/tr/171198/1a.jpg",
+        "market": "ŞOK"
+    },
+    {
         "id": "171197",
         "imagesize": "4",
         "kapak": "https://aktuelstudio2.com/tr/171197/1a.jpg",
@@ -259,14 +268,5 @@
         "tarih": "22-28 Temmuz 2026",
         "url_01": "https://aktuelstudio2.com/tr2/19045/a (1).webp",
         "market": "Bizim"
-    },
-    {
-        "id": "19024",
-        "imagesize": "7",
-        "kapak": "https://aktuelstudio2.com/tr2/19024/a (1).webp",
-        "name": "Vatan",
-        "tarih": "20-27 Temmuz 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/19024/a (1).webp",
-        "market": "Vatan"
     }
 ]
