@@ -1,5 +1,14 @@
 [
     {
+        "id": "171248",
+        "imagesize": "1",
+        "kapak": "https://aktuelstudio2.com/tr/171248/1a.jpg",
+        "name": "ŞOK",
+        "tarih": "25 Temmuz-25 Eylül 2026",
+        "url_01": "https://aktuelstudio2.com/tr/171248/1a.jpg",
+        "market": "ŞOK"
+    },
+    {
         "id": "171265",
         "imagesize": "51",
         "kapak": "https://aktuelstudio2.com/tr/171265/1a.jpg",
@@ -258,15 +267,6 @@
         "name": "ŞOK",
         "tarih": "24-26 Temmuz 2026",
         "url_01": "https://aktuelstudio2.com/tr/171206/1a.jpg",
-        "market": "ŞOK"
-    },
-    {
-        "id": "171198",
-        "imagesize": "2",
-        "kapak": "https://aktuelstudio2.com/tr/171198/1a.jpg",
-        "name": "ŞOK",
-        "tarih": "22-31 Temmuz 2026",
-        "url_01": "https://aktuelstudio2.com/tr/171198/1a.jpg",
         "market": "ŞOK"
     }
 ]
