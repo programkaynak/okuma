@@ -1,5 +1,23 @@
 [
     {
+        "id": "19109",
+        "imagesize": "8",
+        "kapak": "https://aktuelstudio2.com/tr2/19109/a (1).webp",
+        "name": "Gratis",
+        "tarih": "01 Temmuz-02 Ağustos 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/19109/a (1).webp",
+        "market": "Gratis"
+    },
+    {
+        "id": "19108",
+        "imagesize": "4",
+        "kapak": "https://aktuelstudio2.com/tr2/19108/a (1).webp",
+        "name": "Gratis",
+        "tarih": "20 Temmuz-02 Ağustos 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/19108/a (1).webp",
+        "market": "Gratis"
+    },
+    {
         "id": "19107",
         "imagesize": "2",
         "kapak": "https://aktuelstudio2.com/tr2/19107/a (1).webp",
@@ -250,23 +268,5 @@
         "tarih": "25-31 Temmuz 2026",
         "url_01": "https://aktuelstudio2.com/tr/171247/1a.jpg",
         "market": "A101"
-    },
-    {
-        "id": "19081",
-        "imagesize": "8",
-        "kapak": "https://aktuelstudio2.com/tr2/19081/a (1).webp",
-        "name": "Seyhanlar",
-        "tarih": "25-25 Temmuz 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/19081/a (1).webp",
-        "market": "Seyhanlar"
-    },
-    {
-        "id": "19083",
-        "imagesize": "28",
-        "kapak": "https://aktuelstudio2.com/tr2/19083/a (1).webp",
-        "name": "Metro",
-        "tarih": "22-28 Temmuz 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/19083/a (1).webp",
-        "market": "Metro"
     }
 ]
