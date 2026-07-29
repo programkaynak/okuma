@@ -1,5 +1,14 @@
 [
     {
+        "id": "19132",
+        "imagesize": "2",
+        "kapak": "https://aktuelstudio2.com/tr2/19132/a (1).webp",
+        "name": "Bizim",
+        "tarih": "29 Temmuz-11 Ağustos 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/19132/a (1).webp",
+        "market": "Bizim"
+    },
+    {
         "id": "19131",
         "imagesize": "4",
         "kapak": "https://aktuelstudio2.com/tr2/19131/a (1).webp",
@@ -259,14 +268,5 @@
         "tarih": "23 Temmuz-05 Ağustos 2026\n(5M)",
         "url_01": "https://aktuelstudio2.com/tr2/19096/a (1).webp",
         "market": "Migros"
-    },
-    {
-        "id": "19094",
-        "imagesize": "1",
-        "kapak": "https://aktuelstudio2.com/tr2/19094/a (1).webp",
-        "name": "Seyhanlar",
-        "tarih": "27 Temmuz-02 Ağustos 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/19094/a (1).webp",
-        "market": "Seyhanlar"
     }
 ]
