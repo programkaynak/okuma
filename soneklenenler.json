@@ -1,5 +1,14 @@
 [
     {
+        "id": "19140",
+        "imagesize": "1",
+        "kapak": "https://aktuelstudio2.com/tr2/19140/a (1).webp",
+        "name": "Vatan",
+        "tarih": "27 Temmuz-02 Ağustos 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/19140/a (1).webp",
+        "market": "Vatan"
+    },
+    {
         "id": "19145",
         "imagesize": "16",
         "kapak": "https://aktuelstudio2.com/tr2/19145/a (1).webp",
@@ -258,15 +267,6 @@
         "name": "Gratis",
         "tarih": "01 Temmuz-02 Ağustos 2026",
         "url_01": "https://aktuelstudio2.com/tr2/19109/a (1).webp",
-        "market": "Gratis"
-    },
-    {
-        "id": "19108",
-        "imagesize": "4",
-        "kapak": "https://aktuelstudio2.com/tr2/19108/a (1).webp",
-        "name": "Gratis",
-        "tarih": "20 Temmuz-02 Ağustos 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/19108/a (1).webp",
         "market": "Gratis"
     }
 ]
