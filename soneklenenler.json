@@ -1,5 +1,14 @@
 [
     {
+        "id": "171340",
+        "imagesize": "6",
+        "kapak": "https://aktuelstudio2.com/tr/171340/1a.jpg",
+        "name": "A101",
+        "tarih": "01-07 Ağustos 2026                                                  (Artı Kampanya)",
+        "url_01": "https://aktuelstudio2.com/tr/171340/1a.jpg",
+        "market": "A101"
+    },
+    {
         "id": "171311",
         "imagesize": "3",
         "kapak": "https://aktuelstudio2.com/tr/171311/1a.jpg",
@@ -258,15 +267,6 @@
         "name": "BİM",
         "tarih": "31 Temmuz-15 Ağustos 2026",
         "url_01": "https://aktuelstudio2.com/tr/171287/1a.jpg",
-        "market": "BİM"
-    },
-    {
-        "id": "171286",
-        "imagesize": "3",
-        "kapak": "https://aktuelstudio2.com/tr/171286/1a.jpg",
-        "name": "BİM",
-        "tarih": "31 Temmuz-03 Ağustos 2026",
-        "url_01": "https://aktuelstudio2.com/tr/171286/1a.jpg",
         "market": "BİM"
     }
 ]
