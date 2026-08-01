@@ -1,5 +1,14 @@
 [
     {
+        "id": "171356",
+        "imagesize": "45",
+        "kapak": "https://aktuelstudio2.com/tr/171356/1a.jpg",
+        "name": "A101",
+        "tarih": "01-07 Ağustos 2026                                                  (Haftanın Yıldızları)",
+        "url_01": "https://aktuelstudio2.com/tr/171356/1a.jpg",
+        "market": "A101"
+    },
+    {
         "id": "19171",
         "imagesize": "1",
         "kapak": "https://aktuelstudio2.com/tr2/19171/a (1).webp",
@@ -258,15 +267,6 @@
         "name": "Çağri",
         "tarih": "31 Temmuz-10 Ağustos 2026",
         "url_01": "https://aktuelstudio2.com/tr2/19145/a (1).webp",
-        "market": "Çağri"
-    },
-    {
-        "id": "19144",
-        "imagesize": "1",
-        "kapak": "https://aktuelstudio2.com/tr2/19144/a (1).webp",
-        "name": "Çağri",
-        "tarih": "29-31 Temmuz 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/19144/a (1).webp",
         "market": "Çağri"
     }
 ]
