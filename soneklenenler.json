@@ -1,5 +1,14 @@
 [
     {
+        "id": "171367",
+        "imagesize": "1",
+        "kapak": "https://aktuelstudio2.com/tr/171367/1a.jpg",
+        "name": "ŞOK",
+        "tarih": "01-10 Ağustos 2026",
+        "url_01": "https://aktuelstudio2.com/tr/171367/1a.jpg",
+        "market": "ŞOK"
+    },
+    {
         "id": "171366",
         "imagesize": "1",
         "kapak": "https://aktuelstudio2.com/tr/171366/1a.jpg",
@@ -258,15 +267,6 @@
         "name": "A101",
         "tarih": "01-07 Ağustos 2026                                                  (Haftanın Yıldızları)",
         "url_01": "https://aktuelstudio2.com/tr/171355/1a.jpg",
-        "market": "A101"
-    },
-    {
-        "id": "171306",
-        "imagesize": "13",
-        "kapak": "https://aktuelstudio2.com/tr/171306/1a.jpg",
-        "name": "A101",
-        "tarih": "06-12 Ağustos 2026",
-        "url_01": "https://aktuelstudio2.com/tr/171306/1a.jpg",
         "market": "A101"
     }
 ]
