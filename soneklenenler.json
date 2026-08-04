@@ -1,5 +1,14 @@
 [
     {
+        "id": "170368",
+        "imagesize": "1",
+        "kapak": "https://aktuelstudio2.com/tr/170368/1a.jpg",
+        "name": "BİM",
+        "tarih": "Güncel Satış Günleri",
+        "url_01": "https://aktuelstudio2.com/tr/170368/1a.jpg",
+        "market": "BİM"
+    },
+    {
         "id": "19186",
         "imagesize": "1",
         "kapak": "https://aktuelstudio2.com/tr2/19186/a (1).webp",
@@ -259,14 +268,5 @@
         "tarih": "30-31 Temmuz 2026",
         "url_01": "https://aktuelstudio2.com/tr2/19156/a (1).webp",
         "market": "Gratis"
-    },
-    {
-        "id": "19163",
-        "imagesize": "2",
-        "kapak": "https://aktuelstudio2.com/tr2/19163/a (1).webp",
-        "name": "Çağri",
-        "tarih": "30 Temmuz-02 Ağustos 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/19163/a (1).webp",
-        "market": "Çağri"
     }
 ]
