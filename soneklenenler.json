@@ -1,5 +1,14 @@
 [
     {
+        "id": "171371",
+        "imagesize": "1",
+        "kapak": "https://aktuelstudio2.com/tr/171371/1a.jpg",
+        "name": "ŞOK",
+        "tarih": "05-11 Ağustos 2026                                                 (Win Kampanya)",
+        "url_01": "https://aktuelstudio2.com/tr/171371/1a.jpg",
+        "market": "ŞOK"
+    },
+    {
         "id": "171367",
         "imagesize": "1",
         "kapak": "https://aktuelstudio2.com/tr/171367/1a.jpg",
@@ -259,14 +268,5 @@
         "tarih": "31 Temmuz-02 Ağustos 2026",
         "url_01": "https://aktuelstudio2.com/tr2/19172/a (1).webp",
         "market": "Çetinkaya"
-    },
-    {
-        "id": "171355",
-        "imagesize": "5",
-        "kapak": "https://aktuelstudio2.com/tr/171355/1a.jpg",
-        "name": "A101",
-        "tarih": "01-07 Ağustos 2026                                                  (Haftanın Yıldızları)",
-        "url_01": "https://aktuelstudio2.com/tr/171355/1a.jpg",
-        "market": "A101"
     }
 ]
