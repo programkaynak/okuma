@@ -1,5 +1,23 @@
 [
     {
+        "id": "171385",
+        "imagesize": "30",
+        "kapak": "https://aktuelstudio2.com/tr/171385/1a.jpg",
+        "name": "A101",
+        "tarih": "06-12 Ağustos 2026                                                 (Detaylı Ürünler)",
+        "url_01": "https://aktuelstudio2.com/tr/171385/1a.jpg",
+        "market": "A101"
+    },
+    {
+        "id": "171384",
+        "imagesize": "21",
+        "kapak": "https://aktuelstudio2.com/tr/171384/1a.jpg",
+        "name": "A101",
+        "tarih": "06-12 Ağustos 2026                                                 (Detaylı Ürünler)",
+        "url_01": "https://aktuelstudio2.com/tr/171384/1a.jpg",
+        "market": "A101"
+    },
+    {
         "id": "171383",
         "imagesize": "17",
         "kapak": "https://aktuelstudio2.com/tr/171383/1a.jpg",
@@ -249,24 +267,6 @@
         "name": "BİM",
         "tarih": "05-11 Ağustos 2026                                                 (Eve Teslim)",
         "url_01": "https://aktuelstudio2.com/tr/171370/1a.jpg",
-        "market": "BİM"
-    },
-    {
-        "id": "170369",
-        "imagesize": "1",
-        "kapak": "https://aktuelstudio2.com/tr/170369/1a.jpg",
-        "name": "BİM",
-        "tarih": "04-17 Ağustos 2026",
-        "url_01": "https://aktuelstudio2.com/tr/170369/1a.jpg",
-        "market": "BİM"
-    },
-    {
-        "id": "170368",
-        "imagesize": "1",
-        "kapak": "https://aktuelstudio2.com/tr/170368/1a.jpg",
-        "name": "BİM",
-        "tarih": "Güncel Satış Günleri",
-        "url_01": "https://aktuelstudio2.com/tr/170368/1a.jpg",
         "market": "BİM"
     }
 ]
