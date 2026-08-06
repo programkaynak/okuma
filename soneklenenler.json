@@ -1,5 +1,23 @@
 [
     {
+        "id": "19250",
+        "imagesize": "2",
+        "kapak": "https://aktuelstudio2.com/tr2/19250/a (1).webp",
+        "name": "Carrefoursa",
+        "tarih": "04-10 Ağustos 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/19250/a (1).webp",
+        "market": "Carrefoursa"
+    },
+    {
+        "id": "19253",
+        "imagesize": "141",
+        "kapak": "https://aktuelstudio2.com/tr2/19253/a (1).webp",
+        "name": "Migros",
+        "tarih": "06-19 Ağustos 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/19253/a (1).webp",
+        "market": "Migros"
+    },
+    {
         "id": "19254",
         "imagesize": "33",
         "kapak": "https://aktuelstudio2.com/tr2/19254/a (1).webp",
@@ -250,23 +268,5 @@
         "tarih": "04-31 Ağustos 2026                                                 (Detaylı Ürünler)",
         "url_01": "https://aktuelstudio2.com/tr/171376/1a.jpg",
         "market": "BİM"
-    },
-    {
-        "id": "19209",
-        "imagesize": "1",
-        "kapak": "https://aktuelstudio2.com/tr2/19209/a (1).webp",
-        "name": "Seyhanlar",
-        "tarih": "03-09 Ağustos 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/19209/a (1).webp",
-        "market": "Seyhanlar"
-    },
-    {
-        "id": "19214",
-        "imagesize": "1",
-        "kapak": "https://aktuelstudio2.com/tr2/19214/a (1).webp",
-        "name": "HappyCenter",
-        "tarih": "01-04 Ağustos 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/19214/a (1).webp",
-        "market": "HappyCenter"
     }
 ]
