@@ -1,5 +1,14 @@
 [
     {
+        "id": "171406",
+        "imagesize": "1",
+        "kapak": "https://aktuelstudio2.com/tr/171406/1a.jpg",
+        "name": "A101",
+        "tarih": "08-09 Ağustos 2026",
+        "url_01": "https://aktuelstudio2.com/tr/171406/1a.jpg",
+        "market": "A101"
+    },
+    {
         "id": "171405",
         "imagesize": "7",
         "kapak": "https://aktuelstudio2.com/tr/171405/1a.jpg",
@@ -259,14 +268,5 @@
         "tarih": "06-19 Ağustos 2026",
         "url_01": "https://aktuelstudio2.com/tr2/19254/a (1).webp",
         "market": "Migros"
-    },
-    {
-        "id": "19240",
-        "imagesize": "6",
-        "kapak": "https://aktuelstudio2.com/tr2/19240/a (1).webp",
-        "name": "Vatan",
-        "tarih": "03-10 Ağustos 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/19240/a (1).webp",
-        "market": "Vatan"
     }
 ]
