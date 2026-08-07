@@ -1,5 +1,14 @@
 [
     {
+        "id": "19262",
+        "imagesize": "114",
+        "kapak": "https://aktuelstudio2.com/tr2/19262/a (1).webp",
+        "name": "Migros",
+        "tarih": "06-19 Ağustos 2026\n(5M)",
+        "url_01": "https://aktuelstudio2.com/tr2/19262/a (1).webp",
+        "market": "Migros"
+    },
+    {
         "id": "171451",
         "imagesize": "2",
         "kapak": "https://aktuelstudio2.com/tr/171451/1a.jpg",
@@ -259,14 +268,5 @@
         "tarih": "01-14 Ağustos 2026",
         "url_01": "https://aktuelstudio2.com/tr2/19239/a (1).webp",
         "market": "Çetinkaya"
-    },
-    {
-        "id": "171388",
-        "imagesize": "2",
-        "kapak": "https://aktuelstudio2.com/tr/171388/1a.jpg",
-        "name": "ŞOK",
-        "tarih": "06-07 Ağustos 2026",
-        "url_01": "https://aktuelstudio2.com/tr/171388/1a.jpg",
-        "market": "ŞOK"
     }
 ]
