@@ -1,5 +1,14 @@
 [
     {
+        "id": "19264",
+        "imagesize": "1",
+        "kapak": "https://aktuelstudio2.com/tr2/19264/a (1).webp",
+        "name": "HappyCenter",
+        "tarih": "06-13 Ağustos 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/19264/a (1).webp",
+        "market": "HappyCenter"
+    },
+    {
         "id": "19262",
         "imagesize": "114",
         "kapak": "https://aktuelstudio2.com/tr2/19262/a (1).webp",
@@ -259,14 +268,5 @@
         "tarih": "01-31 Ağustos 2026",
         "url_01": "https://aktuelstudio2.com/tr2/19236/a (1).webp",
         "market": "Gratis"
-    },
-    {
-        "id": "19239",
-        "imagesize": "44",
-        "kapak": "https://aktuelstudio2.com/tr2/19239/a (1).webp",
-        "name": "Çetinkaya",
-        "tarih": "01-14 Ağustos 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/19239/a (1).webp",
-        "market": "Çetinkaya"
     }
 ]
