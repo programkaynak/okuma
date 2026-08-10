@@ -1,5 +1,14 @@
 [
     {
+        "id": "19285",
+        "imagesize": "100",
+        "kapak": "https://aktuelstudio2.com/tr2/19285/a (1).webp",
+        "name": "Avon",
+        "tarih": "Ağustos 2026\n(Bölüm 2)",
+        "url_01": "https://aktuelstudio2.com/tr2/19285/a (1).webp",
+        "market": "Avon"
+    },
+    {
         "id": "19288",
         "imagesize": "4",
         "kapak": "https://aktuelstudio2.com/tr2/19288/a (1).webp",
@@ -258,15 +267,6 @@
         "name": "HappyCenter",
         "tarih": "07-16 Ağustos 2026",
         "url_01": "https://aktuelstudio2.com/tr2/19265/a (1).webp",
-        "market": "HappyCenter"
-    },
-    {
-        "id": "19264",
-        "imagesize": "1",
-        "kapak": "https://aktuelstudio2.com/tr2/19264/a (1).webp",
-        "name": "HappyCenter",
-        "tarih": "06-13 Ağustos 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/19264/a (1).webp",
         "market": "HappyCenter"
     }
 ]
