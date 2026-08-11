@@ -1,5 +1,14 @@
 [
     {
+        "id": "171470",
+        "imagesize": "1",
+        "kapak": "https://aktuelstudio2.com/tr/171470/1a.jpg",
+        "name": "ŞOK",
+        "tarih": "12-18 Ağustos 2026                                                 (İste Gelsin)",
+        "url_01": "https://aktuelstudio2.com/tr/171470/1a.jpg",
+        "market": "ŞOK"
+    },
+    {
         "id": "171468",
         "imagesize": "1",
         "kapak": "https://aktuelstudio2.com/tr/171468/1a.jpg",
@@ -259,14 +268,5 @@
         "tarih": "09-15 Ağustos 2026                                                 (Detaylı Ürünler)",
         "url_01": "https://aktuelstudio2.com/tr/171454/1a.jpg",
         "market": "BİM"
-    },
-    {
-        "id": "171455",
-        "imagesize": "3",
-        "kapak": "https://aktuelstudio2.com/tr/171455/1a.jpg",
-        "name": "A101",
-        "tarih": "08-14 Ağustos 2026                                                 (Haftanın Yıldızları)",
-        "url_01": "https://aktuelstudio2.com/tr/171455/1a.jpg",
-        "market": "A101"
     }
 ]
