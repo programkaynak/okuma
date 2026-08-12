@@ -1,5 +1,14 @@
 [
     {
+        "id": "19315",
+        "imagesize": "1",
+        "kapak": "https://aktuelstudio2.com/tr2/19315/a (1).webp",
+        "name": "Onur",
+        "tarih": "11-17 Ağustos 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/19315/a (1).webp",
+        "market": "Onur"
+    },
+    {
         "id": "19317",
         "imagesize": "2",
         "kapak": "https://aktuelstudio2.com/tr2/19317/a (1).webp",
@@ -259,14 +268,5 @@
         "tarih": "11-24 Ağustos 2026",
         "url_01": "https://aktuelstudio2.com/tr/171456/1a.jpg",
         "market": "BİM"
-    },
-    {
-        "id": "19285",
-        "imagesize": "100",
-        "kapak": "https://aktuelstudio2.com/tr2/19285/a (1).webp",
-        "name": "Avon",
-        "tarih": "Ağustos 2026\n(Bölüm 2)",
-        "url_01": "https://aktuelstudio2.com/tr2/19285/a (1).webp",
-        "market": "Avon"
     }
 ]
