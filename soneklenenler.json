@@ -1,5 +1,14 @@
 [
     {
+        "id": "19317",
+        "imagesize": "2",
+        "kapak": "https://aktuelstudio2.com/tr2/19317/a (1).webp",
+        "name": "Kooperatif",
+        "tarih": "11-17 Ağustos 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/19317/a (1).webp",
+        "market": "Kooperatif"
+    },
+    {
         "id": "171474",
         "imagesize": "1",
         "kapak": "https://aktuelstudio2.com/tr/171474/1a.jpg",
@@ -259,14 +268,5 @@
         "tarih": "Ağustos 2026\n(Bölüm 2)",
         "url_01": "https://aktuelstudio2.com/tr2/19285/a (1).webp",
         "market": "Avon"
-    },
-    {
-        "id": "19288",
-        "imagesize": "4",
-        "kapak": "https://aktuelstudio2.com/tr2/19288/a (1).webp",
-        "name": "Onur",
-        "tarih": "06-12 Ağustos 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/19288/a (1).webp",
-        "market": "Onur"
     }
 ]
