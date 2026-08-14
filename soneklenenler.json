@@ -1,5 +1,14 @@
 [
     {
+        "id": "19345",
+        "imagesize": "25",
+        "kapak": "https://aktuelstudio2.com/tr2/19345/a (1).webp",
+        "name": "Metro",
+        "tarih": "12-18 Ağustos 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/19345/a (1).webp",
+        "market": "Metro"
+    },
+    {
         "id": "19344",
         "imagesize": "1",
         "kapak": "https://aktuelstudio2.com/tr2/19344/a (1).webp",
@@ -259,14 +268,5 @@
         "tarih": "Güncel Satış Günleri",
         "url_01": "https://aktuelstudio2.com/tr/171474/1a.jpg",
         "market": "BİM"
-    },
-    {
-        "id": "171486",
-        "imagesize": "65",
-        "kapak": "https://aktuelstudio2.com/tr/171486/1a.jpg",
-        "name": "A101",
-        "tarih": "13-19 Ağustos 2026                                                 (Detaylı Ürünler)",
-        "url_01": "https://aktuelstudio2.com/tr/171486/1a.jpg",
-        "market": "A101"
     }
 ]
