@@ -1,5 +1,14 @@
 [
     {
+        "id": "171556",
+        "imagesize": "69",
+        "kapak": "https://aktuelstudio2.com/tr/171556/1a.jpg",
+        "name": "A101",
+        "tarih": "15-21 Ağustos 2026                                                 (Haftanı Yıldızları)",
+        "url_01": "https://aktuelstudio2.com/tr/171556/1a.jpg",
+        "market": "A101"
+    },
+    {
         "id": "171554",
         "imagesize": "1",
         "kapak": "https://aktuelstudio2.com/tr/171554/1a.jpg",
@@ -259,14 +268,5 @@
         "tarih": "12-18 Ağustos 2026",
         "url_01": "https://aktuelstudio2.com/tr2/19345/a (1).webp",
         "market": "Metro"
-    },
-    {
-        "id": "19344",
-        "imagesize": "1",
-        "kapak": "https://aktuelstudio2.com/tr2/19344/a (1).webp",
-        "name": "Kooperatif",
-        "tarih": "14-16 Ağustos 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/19344/a (1).webp",
-        "market": "Kooperatif"
     }
 ]
