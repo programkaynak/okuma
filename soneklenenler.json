@@ -1,5 +1,23 @@
 [
     {
+        "id": "171540",
+        "imagesize": "1",
+        "kapak": "https://aktuelstudio2.com/tr/171540/1a.jpg",
+        "name": "A101",
+        "tarih": "06-31 Ağustos 2026",
+        "url_01": "https://aktuelstudio2.com/tr/171540/1a.jpg",
+        "market": "A101"
+    },
+    {
+        "id": "171551",
+        "imagesize": "2",
+        "kapak": "https://aktuelstudio2.com/tr/171551/1a.jpg",
+        "name": "ŞOK",
+        "tarih": "15-18 Ağustos 2026",
+        "url_01": "https://aktuelstudio2.com/tr/171551/1a.jpg",
+        "market": "ŞOK"
+    },
+    {
         "id": "171550",
         "imagesize": "1",
         "kapak": "https://aktuelstudio2.com/tr/171550/1a.jpg",
@@ -250,23 +268,5 @@
         "tarih": "11-24 Ağustos 2026",
         "url_01": "https://aktuelstudio2.com/tr2/19333/a (1).webp",
         "market": "Onur"
-    },
-    {
-        "id": "19332",
-        "imagesize": "14",
-        "kapak": "https://aktuelstudio2.com/tr2/19332/a (1).webp",
-        "name": "Onur",
-        "tarih": "11-24 Ağustos 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/19332/a (1).webp",
-        "market": "Onur"
-    },
-    {
-        "id": "19330",
-        "imagesize": "4",
-        "kapak": "https://aktuelstudio2.com/tr2/19330/a (1).webp",
-        "name": "Bizim",
-        "tarih": "12-18 Ağustos 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/19330/a (1).webp",
-        "market": "Bizim"
     }
 ]
