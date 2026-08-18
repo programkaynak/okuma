@@ -1,5 +1,14 @@
 [
     {
+        "id": "19365",
+        "imagesize": "61",
+        "kapak": "https://aktuelstudio2.com/tr2/19365/a (1).webp",
+        "name": "Gratis",
+        "tarih": "03-31 Ağustos 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/19365/a (1).webp",
+        "market": "Gratis"
+    },
+    {
         "id": "171571",
         "imagesize": "2",
         "kapak": "https://aktuelstudio2.com/tr/171571/1a.jpg",
@@ -259,14 +268,5 @@
         "tarih": "14 Ağustos 2026",
         "url_01": "https://aktuelstudio2.com/tr/171512/1a.jpg",
         "market": "ŞOK"
-    },
-    {
-        "id": "171555",
-        "imagesize": "4",
-        "kapak": "https://aktuelstudio2.com/tr/171555/1a.jpg",
-        "name": "A101",
-        "tarih": "15-21 Ağustos 2026                                                 (Haftanın Yıldızları)",
-        "url_01": "https://aktuelstudio2.com/tr/171555/1a.jpg",
-        "market": "A101"
     }
 ]
