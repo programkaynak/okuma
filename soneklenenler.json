@@ -1,5 +1,14 @@
 [
     {
+        "id": "171583",
+        "imagesize": "112",
+        "kapak": "https://aktuelstudio2.com/tr/171583/1a.jpg",
+        "name": "A101",
+        "tarih": "20-26 Ağustos 2026                                                 (Detaylı Ürünler)",
+        "url_01": "https://aktuelstudio2.com/tr/171583/1a.jpg",
+        "market": "A101"
+    },
+    {
         "id": "171582",
         "imagesize": "3",
         "kapak": "https://aktuelstudio2.com/tr/171582/1a.jpg",
@@ -259,14 +268,5 @@
         "tarih": "Ağustos 2026\nenglishhome.com",
         "url_01": "https://aktuelstudio2.com/tr2/19361/a (1).png",
         "market": "EnglishHome"
-    },
-    {
-        "id": "19362",
-        "imagesize": "1",
-        "kapak": "https://aktuelstudio2.com/tr2/19362/a (1).webp",
-        "name": "Seyhanlar",
-        "tarih": "17-23 Ağustos 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/19362/a (1).webp",
-        "market": "Seyhanlar"
     }
 ]
