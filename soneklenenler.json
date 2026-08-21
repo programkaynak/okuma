@@ -1,5 +1,14 @@
 [
     {
+        "id": "19436",
+        "imagesize": "8",
+        "kapak": "https://aktuelstudio2.com/tr2/19436/a (1).webp",
+        "name": "HappyCenter",
+        "tarih": "19-31 Ağustos 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/19436/a (1).webp",
+        "market": "HappyCenter"
+    },
+    {
         "id": "19438",
         "imagesize": "16",
         "kapak": "https://aktuelstudio2.com/tr2/19438/a (1).webp",
@@ -258,15 +267,6 @@
         "name": "Metro",
         "tarih": "19-25 Ağustos 2026",
         "url_01": "https://aktuelstudio2.com/tr2/19412/a (1).webp",
-        "market": "Metro"
-    },
-    {
-        "id": "19411",
-        "imagesize": "7",
-        "kapak": "https://aktuelstudio2.com/tr2/19411/a (1).webp",
-        "name": "Metro",
-        "tarih": "19-25 Ağustos 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/19411/a (1).webp",
         "market": "Metro"
     }
 ]
