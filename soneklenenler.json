@@ -1,5 +1,23 @@
 [
     {
+        "id": "171625",
+        "imagesize": "1",
+        "kapak": "https://aktuelstudio2.com/tr/171625/1a.jpg",
+        "name": "ŞOK",
+        "tarih": "22-31 Ağustos 2026",
+        "url_01": "https://aktuelstudio2.com/tr/171625/1a.jpg",
+        "market": "ŞOK"
+    },
+    {
+        "id": "171647",
+        "imagesize": "2",
+        "kapak": "https://aktuelstudio2.com/tr/171647/1a.jpg",
+        "name": "BİM",
+        "tarih": "Okula Dönüş Ürünleri",
+        "url_01": "https://aktuelstudio2.com/tr/171647/1a.jpg",
+        "market": "BİM"
+    },
+    {
         "id": "171646",
         "imagesize": "24",
         "kapak": "https://aktuelstudio2.com/tr/171646/1a.jpg",
@@ -250,23 +268,5 @@
         "tarih": "20 Ağustos-02 Eylül 2026",
         "url_01": "https://aktuelstudio2.com/tr2/19434/a (1).webp",
         "market": "Carrefoursa"
-    },
-    {
-        "id": "19435",
-        "imagesize": "70",
-        "kapak": "https://aktuelstudio2.com/tr2/19435/a (1).webp",
-        "name": "Migros",
-        "tarih": "20 Ağustos-09 Eylül 2026\n(5M)",
-        "url_01": "https://aktuelstudio2.com/tr2/19435/a (1).webp",
-        "market": "Migros"
-    },
-    {
-        "id": "171650",
-        "imagesize": "8",
-        "kapak": "https://aktuelstudio2.com/tr/171650/1a.jpg",
-        "name": "ŞOK",
-        "tarih": "22 Ağustos-15 Eylül 2026 (Okula Dönüş Kampanya)",
-        "url_01": "https://aktuelstudio2.com/tr/171650/1a.jpg",
-        "market": "ŞOK"
     }
 ]
