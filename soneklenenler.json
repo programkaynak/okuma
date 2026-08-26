@@ -1,5 +1,14 @@
 [
     {
+        "id": "19471",
+        "imagesize": "8",
+        "kapak": "https://aktuelstudio2.com/tr2/19471/a (1).webp",
+        "name": "Vatan",
+        "tarih": "24-31 Ağustos 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/19471/a (1).webp",
+        "market": "Vatan"
+    },
+    {
         "id": "19470",
         "imagesize": "1",
         "kapak": "https://aktuelstudio2.com/tr2/19470/a (1).webp",
@@ -259,14 +268,5 @@
         "tarih": "22-31 Ağustos 2026",
         "url_01": "https://aktuelstudio2.com/tr/171625/1a.jpg",
         "market": "ŞOK"
-    },
-    {
-        "id": "171647",
-        "imagesize": "2",
-        "kapak": "https://aktuelstudio2.com/tr/171647/1a.jpg",
-        "name": "BİM",
-        "tarih": "Okula Dönüş Ürünleri",
-        "url_01": "https://aktuelstudio2.com/tr/171647/1a.jpg",
-        "market": "BİM"
     }
 ]
