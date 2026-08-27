@@ -1,5 +1,14 @@
 [
     {
+        "id": "171784",
+        "imagesize": "1",
+        "kapak": "https://aktuelstudio2.com/tr/171784/1a.jpg",
+        "name": "A101",
+        "tarih": "27-30 Ağustos 2026",
+        "url_01": "https://aktuelstudio2.com/tr/171784/1a.jpg",
+        "market": "A101"
+    },
+    {
         "id": "19481",
         "imagesize": "2",
         "kapak": "https://aktuelstudio2.com/tr2/19481/a (1).webp",
@@ -259,14 +268,5 @@
         "tarih": "24 Ağustos Pazar Satışta Okula Dönüş Ürünleri",
         "url_01": "https://aktuelstudio2.com/tr/171770/1a.jpg",
         "market": "A101"
-    },
-    {
-        "id": "19460",
-        "imagesize": "8",
-        "kapak": "https://aktuelstudio2.com/tr2/19460/a (1).webp",
-        "name": "Hakmar",
-        "tarih": "21 Ağustos-31 Ekim 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/19460/a (1).webp",
-        "market": "Hakmar"
     }
 ]
