@@ -1,5 +1,14 @@
 [
     {
+        "id": "171840",
+        "imagesize": "10",
+        "kapak": "https://aktuelstudio2.com/tr/171840/1a.jpg",
+        "name": "ŞOK",
+        "tarih": "29 Ağustos-30 Ekim 2026 (Kasa Arkası Kampanya)",
+        "url_01": "https://aktuelstudio2.com/tr/171840/1a.jpg",
+        "market": "ŞOK"
+    },
+    {
         "id": "171855",
         "imagesize": "6",
         "kapak": "https://aktuelstudio2.com/tr/171855/1a.jpg",
@@ -259,14 +268,5 @@
         "tarih": "27-27 Ağustos 2026",
         "url_01": "https://aktuelstudio2.com/tr2/19494/a (1).webp",
         "market": "Kooperatif"
-    },
-    {
-        "id": "19499",
-        "imagesize": "3",
-        "kapak": "https://aktuelstudio2.com/tr2/19499/a (1).webp",
-        "name": "Carrefoursa",
-        "tarih": "25-31 Ağustos 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/19499/a (1).webp",
-        "market": "Carrefoursa"
     }
 ]
