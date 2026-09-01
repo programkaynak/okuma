@@ -1,5 +1,14 @@
 [
     {
+        "id": "19554",
+        "imagesize": "1",
+        "kapak": "https://aktuelstudio2.com/tr2/19554/a (1).webp",
+        "name": "Hakmar",
+        "tarih": "25 Ağustos-20 Eylül 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/19554/a (1).webp",
+        "market": "Hakmar"
+    },
+    {
         "id": "19553",
         "imagesize": "1",
         "kapak": "https://aktuelstudio2.com/tr2/19553/a (1).webp",
@@ -259,14 +268,5 @@
         "tarih": "29 Ağustos-30 Ekim 2026 (Kasa Arkası Kampanya)",
         "url_01": "https://aktuelstudio2.com/tr/171840/1a.jpg",
         "market": "ŞOK"
-    },
-    {
-        "id": "171855",
-        "imagesize": "6",
-        "kapak": "https://aktuelstudio2.com/tr/171855/1a.jpg",
-        "name": "A101",
-        "tarih": "29 Ağustos-04 Eylül 2026 (Haftanın Yıldızları)",
-        "url_01": "https://aktuelstudio2.com/tr/171855/1a.jpg",
-        "market": "A101"
     }
 ]
