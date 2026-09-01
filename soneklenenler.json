@@ -1,5 +1,14 @@
 [
     {
+        "id": "171880",
+        "imagesize": "6",
+        "kapak": "https://aktuelstudio2.com/tr/171880/1a.jpg",
+        "name": "BİM",
+        "tarih": "Okula Dönüş Ürünleri",
+        "url_01": "https://aktuelstudio2.com/tr/171880/1a.jpg",
+        "market": "BİM"
+    },
+    {
         "id": "19536",
         "imagesize": "4",
         "kapak": "https://aktuelstudio2.com/tr2/19536/a (1).webp",
@@ -258,15 +267,6 @@
         "name": "BİM",
         "tarih": "01-07 Eylül 2026 (Detaylı Ürünler)",
         "url_01": "https://aktuelstudio2.com/tr/171865/1a.jpg",
-        "market": "BİM"
-    },
-    {
-        "id": "171860",
-        "imagesize": "57",
-        "kapak": "https://aktuelstudio2.com/tr/171860/1a.jpg",
-        "name": "BİM",
-        "tarih": "30 Ağustos-05 Eylül 2026 (Detaylı Ürünler)",
-        "url_01": "https://aktuelstudio2.com/tr/171860/1a.jpg",
         "market": "BİM"
     }
 ]
