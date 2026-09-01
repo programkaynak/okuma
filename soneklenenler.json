@@ -1,5 +1,14 @@
 [
     {
+        "id": "19550",
+        "imagesize": "3",
+        "kapak": "https://aktuelstudio2.com/tr2/19550/a (1).webp",
+        "name": "HappyCenter",
+        "tarih": "01-07 Eylül 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/19550/a (1).webp",
+        "market": "HappyCenter"
+    },
+    {
         "id": "19557",
         "imagesize": "7",
         "kapak": "https://aktuelstudio2.com/tr2/19557/a (1).webp",
@@ -258,15 +267,6 @@
         "name": "A101",
         "tarih": "29 Ağustos-06 Eylül 2026",
         "url_01": "https://aktuelstudio2.com/tr/171854/1a.jpg",
-        "market": "A101"
-    },
-    {
-        "id": "171826",
-        "imagesize": "5",
-        "kapak": "https://aktuelstudio2.com/tr/171826/1a.jpg",
-        "name": "A101",
-        "tarih": "29 Ağustos-04 Eylül 2026",
-        "url_01": "https://aktuelstudio2.com/tr/171826/1a.jpg",
         "market": "A101"
     }
 ]
