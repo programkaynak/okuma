@@ -1,5 +1,23 @@
 [
     {
+        "id": "19566",
+        "imagesize": "1",
+        "kapak": "https://aktuelstudio2.com/tr2/19566/a (1).webp",
+        "name": "Vatan",
+        "tarih": "31 Ağustos-06 Eylül 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/19566/a (1).webp",
+        "market": "Vatan"
+    },
+    {
+        "id": "19564",
+        "imagesize": "8",
+        "kapak": "https://aktuelstudio2.com/tr2/19564/a (1).webp",
+        "name": "Vatan",
+        "tarih": "31 Ağustos-07 Eylül 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/19564/a (1).webp",
+        "market": "Vatan"
+    },
+    {
         "id": "19563",
         "imagesize": "1",
         "kapak": "https://aktuelstudio2.com/tr2/19563/a (1).webp",
@@ -250,23 +268,5 @@
         "tarih": "01-28 Eylül 2026",
         "url_01": "https://aktuelstudio2.com/tr/171869/1a.jpg",
         "market": "BİM"
-    },
-    {
-        "id": "19532",
-        "imagesize": "1",
-        "kapak": "https://aktuelstudio2.com/tr2/19532/a (1).png",
-        "name": "EnglishHome",
-        "tarih": "Ağustos 2026\nenglishhome.com",
-        "url_01": "https://aktuelstudio2.com/tr2/19532/a (1).png",
-        "market": "EnglishHome"
-    },
-    {
-        "id": "171830",
-        "imagesize": "5",
-        "kapak": "https://aktuelstudio2.com/tr/171830/1a.jpg",
-        "name": "ŞOK",
-        "tarih": "30 Ağustos-02 Eylül 2026",
-        "url_01": "https://aktuelstudio2.com/tr/171830/1a.jpg",
-        "market": "ŞOK"
     }
 ]
