@@ -1,5 +1,14 @@
 [
     {
+        "id": "19563",
+        "imagesize": "1",
+        "kapak": "https://aktuelstudio2.com/tr2/19563/a (1).webp",
+        "name": "Vatan",
+        "tarih": "31 Ağustos-30 Eylül 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/19563/a (1).webp",
+        "market": "Vatan"
+    },
+    {
         "id": "19577",
         "imagesize": "1",
         "kapak": "https://aktuelstudio2.com/tr2/19577/a (1).webp",
@@ -259,14 +268,5 @@
         "tarih": "30 Ağustos-02 Eylül 2026",
         "url_01": "https://aktuelstudio2.com/tr/171830/1a.jpg",
         "market": "ŞOK"
-    },
-    {
-        "id": "19522",
-        "imagesize": "28",
-        "kapak": "https://aktuelstudio2.com/tr2/19522/a (1).webp",
-        "name": "Bauhaus",
-        "tarih": "29 Ağustos-02 Ekim 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/19522/a (1).webp",
-        "market": "Bauhaus"
     }
 ]
