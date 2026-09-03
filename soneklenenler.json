@@ -1,5 +1,14 @@
 [
     {
+        "id": "19586",
+        "imagesize": "48",
+        "kapak": "https://aktuelstudio2.com/tr2/19586/a (1).webp",
+        "name": "Çetinkaya",
+        "tarih": "01-14 Eylül 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/19586/a (1).webp",
+        "market": "Çetinkaya"
+    },
+    {
         "id": "19595",
         "imagesize": "4",
         "kapak": "https://aktuelstudio2.com/tr2/19595/a (1).webp",
@@ -259,14 +268,5 @@
         "tarih": "01-30 Eylül 2026",
         "url_01": "https://aktuelstudio2.com/tr2/19579/a (1).webp",
         "market": "Metro"
-    },
-    {
-        "id": "19578",
-        "imagesize": "2",
-        "kapak": "https://aktuelstudio2.com/tr2/19578/a (1).webp",
-        "name": "Kooperatif",
-        "tarih": "02-02 Eylül 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/19578/a (1).webp",
-        "market": "Kooperatif"
     }
 ]
