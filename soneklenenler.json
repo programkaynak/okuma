@@ -1,5 +1,14 @@
 [
     {
+        "id": "19617",
+        "imagesize": "7",
+        "kapak": "https://aktuelstudio2.com/tr2/19617/a (1).webp",
+        "name": "Carrefoursa",
+        "tarih": "02-08 Eylül 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/19617/a (1).webp",
+        "market": "Carrefoursa"
+    },
+    {
         "id": "19588",
         "imagesize": "1",
         "kapak": "https://aktuelstudio2.com/tr2/19588/a (1).webp",
@@ -258,15 +267,6 @@
         "name": "Vatan",
         "tarih": "31 Ağustos-06 Eylül 2026",
         "url_01": "https://aktuelstudio2.com/tr2/19566/a (1).webp",
-        "market": "Vatan"
-    },
-    {
-        "id": "19564",
-        "imagesize": "8",
-        "kapak": "https://aktuelstudio2.com/tr2/19564/a (1).webp",
-        "name": "Vatan",
-        "tarih": "31 Ağustos-07 Eylül 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/19564/a (1).webp",
         "market": "Vatan"
     }
 ]
