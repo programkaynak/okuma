@@ -1,5 +1,14 @@
 [
     {
+        "id": "171921",
+        "imagesize": "6",
+        "kapak": "https://aktuelstudio2.com/tr/171921/1a.jpg",
+        "name": "ŞOK",
+        "tarih": "05-08 Eylül 2026",
+        "url_01": "https://aktuelstudio2.com/tr/171921/1a.jpg",
+        "market": "ŞOK"
+    },
+    {
         "id": "171920",
         "imagesize": "13",
         "kapak": "https://aktuelstudio2.com/tr/171920/1a.jpg",
@@ -259,14 +268,5 @@
         "tarih": "01-14 Eylül 2026",
         "url_01": "https://aktuelstudio2.com/tr2/19586/a (1).webp",
         "market": "Çetinkaya"
-    },
-    {
-        "id": "19595",
-        "imagesize": "4",
-        "kapak": "https://aktuelstudio2.com/tr2/19595/a (1).webp",
-        "name": "Onur",
-        "tarih": "01-30 Eylül 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/19595/a (1).webp",
-        "market": "Onur"
     }
 ]
