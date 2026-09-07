@@ -1,5 +1,14 @@
 [
     {
+        "id": "171966",
+        "imagesize": "1",
+        "kapak": "https://aktuelstudio2.com/tr/171966/1a.jpg",
+        "name": "ŞOK",
+        "tarih": "04-30 Eylül 2026",
+        "url_01": "https://aktuelstudio2.com/tr/171966/1a.jpg",
+        "market": "ŞOK"
+    },
+    {
         "id": "171973",
         "imagesize": "3",
         "kapak": "https://aktuelstudio2.com/tr/171973/1a.jpg",
@@ -258,15 +267,6 @@
         "name": "BİM",
         "tarih": "04-07 Eylül 2026                                                   (Detaylı Ürünler)",
         "url_01": "https://aktuelstudio2.com/tr/171898/1a.jpg",
-        "market": "BİM"
-    },
-    {
-        "id": "171897",
-        "imagesize": "26",
-        "kapak": "https://aktuelstudio2.com/tr/171897/1a.jpg",
-        "name": "BİM",
-        "tarih": "04-07 Eylül 2026                                                   (Detaylı Ürünler)",
-        "url_01": "https://aktuelstudio2.com/tr/171897/1a.jpg",
         "market": "BİM"
     }
 ]
