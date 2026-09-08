@@ -1,5 +1,14 @@
 [
     {
+        "id": "19667",
+        "imagesize": "1",
+        "kapak": "https://aktuelstudio2.com/tr2/19667/a (1).webp",
+        "name": "Carrefoursa",
+        "tarih": "01-19 Eylül 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/19667/a (1).webp",
+        "market": "Carrefoursa"
+    },
+    {
         "id": "171975",
         "imagesize": "23",
         "kapak": "https://aktuelstudio2.com/tr/171975/1a.jpg",
@@ -258,15 +267,6 @@
         "name": "A101",
         "tarih": "05-11 Eylül 2026                                                   (Haftanın Yıldızları)",
         "url_01": "https://aktuelstudio2.com/tr/171950/1a.jpg",
-        "market": "A101"
-    },
-    {
-        "id": "171901",
-        "imagesize": "11",
-        "kapak": "https://aktuelstudio2.com/tr/171901/1a.jpg",
-        "name": "A101",
-        "tarih": "10-16 Eylül 2026",
-        "url_01": "https://aktuelstudio2.com/tr/171901/1a.jpg",
         "market": "A101"
     }
 ]
