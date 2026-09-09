@@ -1,5 +1,14 @@
 [
     {
+        "id": "171985",
+        "imagesize": "5",
+        "kapak": "https://aktuelstudio2.com/tr/171985/1a.jpg",
+        "name": "A101",
+        "tarih": "08-11 Eylül 2026                                                   (Artı Kampanya)",
+        "url_01": "https://aktuelstudio2.com/tr/171985/1a.jpg",
+        "market": "A101"
+    },
+    {
         "id": "171984",
         "imagesize": "1",
         "kapak": "https://aktuelstudio2.com/tr/171984/1a.jpg",
@@ -259,14 +268,5 @@
         "tarih": "04-14 Eylül 2026",
         "url_01": "https://aktuelstudio2.com/tr2/19636/a (1).webp",
         "market": "Çağri"
-    },
-    {
-        "id": "19640",
-        "imagesize": "1",
-        "kapak": "https://aktuelstudio2.com/tr2/19640/a (1).webp",
-        "name": "HappyCenter",
-        "tarih": "04-06 Eylül 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/19640/a (1).webp",
-        "market": "HappyCenter"
     }
 ]
