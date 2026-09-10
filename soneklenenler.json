@@ -1,5 +1,14 @@
 [
     {
+        "id": "171986",
+        "imagesize": "1",
+        "kapak": "https://aktuelstudio2.com/tr/171986/1a.jpg",
+        "name": "ŞOK",
+        "tarih": "09-15 Eylül 2026                                                   (Win Kampanya)",
+        "url_01": "https://aktuelstudio2.com/tr/171986/1a.jpg",
+        "market": "ŞOK"
+    },
+    {
         "id": "171987",
         "imagesize": "2",
         "kapak": "https://aktuelstudio2.com/tr/171987/1a.jpg",
@@ -259,14 +268,5 @@
         "tarih": "Eylül 2026\nenglishhome.com",
         "url_01": "https://aktuelstudio2.com/tr2/19660/a (1).jpg",
         "market": "EnglishHome"
-    },
-    {
-        "id": "19662",
-        "imagesize": "16",
-        "kapak": "https://aktuelstudio2.com/tr2/19662/a (1).webp",
-        "name": "Tekzen",
-        "tarih": "Eylül-Ekim 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/19662/a (1).webp",
-        "market": "Tekzen"
     }
 ]
