@@ -1,5 +1,14 @@
 [
     {
+        "id": "172160",
+        "imagesize": "45",
+        "kapak": "https://aktuelstudio2.com/tr/172160/1a.jpg",
+        "name": "BİM",
+        "tarih": "13-19 Eylül 2026                                                   (Detaylı Ürünler)",
+        "url_01": "https://aktuelstudio2.com/tr/172160/1a.jpg",
+        "market": "BİM"
+    },
+    {
         "id": "172110",
         "imagesize": "3",
         "kapak": "https://aktuelstudio2.com/tr/172110/1a.jpg",
@@ -258,15 +267,6 @@
         "name": "HappyCenter",
         "tarih": "09-21 Eylül 2026",
         "url_01": "https://aktuelstudio2.com/tr2/19693/a (1).webp",
-        "market": "HappyCenter"
-    },
-    {
-        "id": "19692",
-        "imagesize": "1",
-        "kapak": "https://aktuelstudio2.com/tr2/19692/a (1).webp",
-        "name": "HappyCenter",
-        "tarih": "08-11 Eylül 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/19692/a (1).webp",
         "market": "HappyCenter"
     }
 ]
