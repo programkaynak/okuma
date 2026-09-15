@@ -1,5 +1,14 @@
 [
     {
+        "id": "19768",
+        "imagesize": "26",
+        "kapak": "https://aktuelstudio2.com/tr2/19768/a (1).webp",
+        "name": "Metro",
+        "tarih": "09-15 Eylül 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/19768/a (1).webp",
+        "market": "Metro"
+    },
+    {
         "id": "19767",
         "imagesize": "24",
         "kapak": "https://aktuelstudio2.com/tr2/19767/a (1).webp",
@@ -259,14 +268,5 @@
         "tarih": "12-25 Eylül 2026",
         "url_01": "https://aktuelstudio2.com/tr/172138/1a.jpg",
         "market": "BİM"
-    },
-    {
-        "id": "172151",
-        "imagesize": "5",
-        "kapak": "https://aktuelstudio2.com/tr/172151/1a.jpg",
-        "name": "A101",
-        "tarih": "12-18 Eylül 2026                                                   (Haftanın Yıldızları)",
-        "url_01": "https://aktuelstudio2.com/tr/172151/1a.jpg",
-        "market": "A101"
     }
 ]
