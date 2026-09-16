@@ -1,5 +1,14 @@
 [
     {
+        "id": "172179",
+        "imagesize": "1",
+        "kapak": "https://aktuelstudio2.com/tr/172179/1a.jpg",
+        "name": "ŞOK",
+        "tarih": "16-22 Eylül 2026                                                   (Win Kampanya)",
+        "url_01": "https://aktuelstudio2.com/tr/172179/1a.jpg",
+        "market": "ŞOK"
+    },
+    {
         "id": "172178",
         "imagesize": "1",
         "kapak": "https://aktuelstudio2.com/tr/172178/1a.jpg",
@@ -258,15 +267,6 @@
         "name": "EnglishHome",
         "tarih": "Eylül 2026\nenglishhome.com",
         "url_01": "https://aktuelstudio2.com/tr2/19738/a (1).jpg",
-        "market": "EnglishHome"
-    },
-    {
-        "id": "19737",
-        "imagesize": "1",
-        "kapak": "https://aktuelstudio2.com/tr2/19737/a (1).jpg",
-        "name": "EnglishHome",
-        "tarih": "Eylül 2026\nenglishhome.com",
-        "url_01": "https://aktuelstudio2.com/tr2/19737/a (1).jpg",
         "market": "EnglishHome"
     }
 ]
