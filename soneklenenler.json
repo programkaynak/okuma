@@ -1,5 +1,14 @@
 [
     {
+        "id": "172180",
+        "imagesize": "10",
+        "kapak": "https://aktuelstudio2.com/tr/172180/1a.jpg",
+        "name": "ŞOK",
+        "tarih": "16-22 Eylül 2026                                                   (İste Gelsin)",
+        "url_01": "https://aktuelstudio2.com/tr/172180/1a.jpg",
+        "market": "ŞOK"
+    },
+    {
         "id": "172179",
         "imagesize": "1",
         "kapak": "https://aktuelstudio2.com/tr/172179/1a.jpg",
@@ -259,14 +268,5 @@
         "tarih": "12-22 Eylül 2026",
         "url_01": "https://aktuelstudio2.com/tr/172155/1a.jpg",
         "market": "ŞOK"
-    },
-    {
-        "id": "19738",
-        "imagesize": "1",
-        "kapak": "https://aktuelstudio2.com/tr2/19738/a (1).jpg",
-        "name": "EnglishHome",
-        "tarih": "Eylül 2026\nenglishhome.com",
-        "url_01": "https://aktuelstudio2.com/tr2/19738/a (1).jpg",
-        "market": "EnglishHome"
     }
 ]
