@@ -1,5 +1,14 @@
 [
     {
+        "id": "19826",
+        "imagesize": "30",
+        "kapak": "https://aktuelstudio2.com/tr2/19826/a (1).webp",
+        "name": "Metro",
+        "tarih": "17-22 Eylül 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/19826/a (1).webp",
+        "market": "Metro"
+    },
+    {
         "id": "19825",
         "imagesize": "30",
         "kapak": "https://aktuelstudio2.com/tr2/19825/a (1).webp",
@@ -258,15 +267,6 @@
         "name": "Bizim",
         "tarih": "16-22 Eylül 2026",
         "url_01": "https://aktuelstudio2.com/tr2/19801/a (1).webp",
-        "market": "Bizim"
-    },
-    {
-        "id": "19800",
-        "imagesize": "4",
-        "kapak": "https://aktuelstudio2.com/tr2/19800/a (1).webp",
-        "name": "Bizim",
-        "tarih": "16-22 Eylül 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/19800/a (1).webp",
         "market": "Bizim"
     }
 ]
