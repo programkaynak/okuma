@@ -1,5 +1,14 @@
 [
     {
+        "id": "172240",
+        "imagesize": "9",
+        "kapak": "https://aktuelstudio2.com/tr/172240/1a.jpg",
+        "name": "A101",
+        "tarih": "19-25 Eylül 2026                                                   (Artı Kampanya)",
+        "url_01": "https://aktuelstudio2.com/tr/172240/1a.jpg",
+        "market": "A101"
+    },
+    {
         "id": "172212",
         "imagesize": "12",
         "kapak": "https://aktuelstudio2.com/tr/172212/1a.jpg",
@@ -258,15 +267,6 @@
         "name": "Kooperatif",
         "tarih": "17-23 Eylül 2026",
         "url_01": "https://aktuelstudio2.com/tr2/19809/a (1).webp",
-        "market": "Kooperatif"
-    },
-    {
-        "id": "19808",
-        "imagesize": "1",
-        "kapak": "https://aktuelstudio2.com/tr2/19808/a (1).webp",
-        "name": "Kooperatif",
-        "tarih": "17-17 Eylül 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/19808/a (1).webp",
         "market": "Kooperatif"
     }
 ]
