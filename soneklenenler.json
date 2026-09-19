@@ -1,5 +1,14 @@
 [
     {
+        "id": "172220",
+        "imagesize": "3",
+        "kapak": "https://aktuelstudio2.com/tr/172220/1a.jpg",
+        "name": "A101",
+        "tarih": "19-25 Eylül 2026",
+        "url_01": "https://aktuelstudio2.com/tr/172220/1a.jpg",
+        "market": "A101"
+    },
+    {
         "id": "172249",
         "imagesize": "1",
         "kapak": "https://aktuelstudio2.com/tr/172249/1a.jpg",
@@ -258,15 +267,6 @@
         "name": "Onur",
         "tarih": "17-23 Eylül 2026",
         "url_01": "https://aktuelstudio2.com/tr2/19805/a (1).webp",
-        "market": "Onur"
-    },
-    {
-        "id": "19804",
-        "imagesize": "8",
-        "kapak": "https://aktuelstudio2.com/tr2/19804/a (1).webp",
-        "name": "Onur",
-        "tarih": "16-28 Eylül 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/19804/a (1).webp",
         "market": "Onur"
     }
 ]
