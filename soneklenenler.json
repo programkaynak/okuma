@@ -1,5 +1,14 @@
 [
     {
+        "id": "172230",
+        "imagesize": "2",
+        "kapak": "https://aktuelstudio2.com/tr/172230/1a.jpg",
+        "name": "ŞOK",
+        "tarih": "18-25 Eylül 2026                                                   (İste Gelsin)",
+        "url_01": "https://aktuelstudio2.com/tr/172230/1a.jpg",
+        "market": "ŞOK"
+    },
+    {
         "id": "172215",
         "imagesize": "2",
         "kapak": "https://aktuelstudio2.com/tr/172215/1a.jpg",
@@ -259,14 +268,5 @@
         "tarih": "15-21 Eylül 2026",
         "url_01": "https://aktuelstudio2.com/tr2/19803/a (1).webp",
         "market": "Onur"
-    },
-    {
-        "id": "19813",
-        "imagesize": "24",
-        "kapak": "https://aktuelstudio2.com/tr2/19813/a (1).webp",
-        "name": "Metro",
-        "tarih": "17-22 Eylül 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/19813/a (1).webp",
-        "market": "Metro"
     }
 ]
