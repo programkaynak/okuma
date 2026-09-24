@@ -1,5 +1,14 @@
 [
     {
+        "id": "19908",
+        "imagesize": "6",
+        "kapak": "https://aktuelstudio2.com/tr2/19908/a (1).webp",
+        "name": "Metro",
+        "tarih": "23-29 Eylül 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/19908/a (1).webp",
+        "market": "Metro"
+    },
+    {
         "id": "19907",
         "imagesize": "12",
         "kapak": "https://aktuelstudio2.com/tr2/19907/a (1).webp",
@@ -259,14 +268,5 @@
         "tarih": "22-28 Eylül 2026",
         "url_01": "https://aktuelstudio2.com/tr2/19868/a (1).webp",
         "market": "Onur"
-    },
-    {
-        "id": "19872",
-        "imagesize": "2",
-        "kapak": "https://aktuelstudio2.com/tr2/19872/a (1).webp",
-        "name": "Kooperatif",
-        "tarih": "22-22 Eylül 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/19872/a (1).webp",
-        "market": "Kooperatif"
     }
 ]
