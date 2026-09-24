@@ -1,5 +1,14 @@
 [
     {
+        "id": "19906",
+        "imagesize": "2",
+        "kapak": "https://aktuelstudio2.com/tr2/19906/a (1).webp",
+        "name": "Çağri",
+        "tarih": "23-27 Eylül 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/19906/a (1).webp",
+        "market": "Çağri"
+    },
+    {
         "id": "19901",
         "imagesize": "2",
         "kapak": "https://aktuelstudio2.com/tr2/19901/a (1).webp",
@@ -259,14 +268,5 @@
         "tarih": "23-27 Eylül 2026",
         "url_01": "https://aktuelstudio2.com/tr2/19873/a (1).webp",
         "market": "Çağri"
-    },
-    {
-        "id": "19870",
-        "imagesize": "1",
-        "kapak": "https://aktuelstudio2.com/tr2/19870/a (1).webp",
-        "name": "Seyhanlar",
-        "tarih": "21-27 Eylül 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/19870/a (1).webp",
-        "market": "Seyhanlar"
     }
 ]
