@@ -1,5 +1,14 @@
 [
     {
+        "id": "19920",
+        "imagesize": "1",
+        "kapak": "https://aktuelstudio2.com/tr2/19920/a (1).webp",
+        "name": "Vatan",
+        "tarih": "14-30 Eylül 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/19920/a (1).webp",
+        "market": "Vatan"
+    },
+    {
         "id": "19927",
         "imagesize": "8",
         "kapak": "https://aktuelstudio2.com/tr2/19927/a (1).webp",
@@ -258,15 +267,6 @@
         "name": "Migros",
         "tarih": "24 Eylül-07 Ekim 2026",
         "url_01": "https://aktuelstudio2.com/tr2/19913/a (1).webp",
-        "market": "Migros"
-    },
-    {
-        "id": "19912",
-        "imagesize": "32",
-        "kapak": "https://aktuelstudio2.com/tr2/19912/a (1).webp",
-        "name": "Migros",
-        "tarih": "24 Eylül-07 Ekim 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/19912/a (1).webp",
         "market": "Migros"
     }
 ]
