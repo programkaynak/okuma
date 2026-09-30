@@ -1,5 +1,14 @@
 [
     {
+        "id": "19984",
+        "imagesize": "7",
+        "kapak": "https://aktuelstudio2.com/tr2/19984/a (1).webp",
+        "name": "Vatan",
+        "tarih": "28 Eylül-05 Ekim 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/19984/a (1).webp",
+        "market": "Vatan"
+    },
+    {
         "id": "19983",
         "imagesize": "1",
         "kapak": "https://aktuelstudio2.com/tr2/19983/a (1).webp",
@@ -258,15 +267,6 @@
         "name": "ŞOK",
         "tarih": "30 Eylül-06 Ekim 2026 (İste Gelsin)",
         "url_01": "https://aktuelstudio2.com/tr/172373/1a.jpg",
-        "market": "ŞOK"
-    },
-    {
-        "id": "172372",
-        "imagesize": "12",
-        "kapak": "https://aktuelstudio2.com/tr/172372/1a.jpg",
-        "name": "ŞOK",
-        "tarih": "29 Eylül-05 Ekim 2026 (Kol Saatleri)",
-        "url_01": "https://aktuelstudio2.com/tr/172372/1a.jpg",
         "market": "ŞOK"
     }
 ]
