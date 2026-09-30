@@ -1,5 +1,14 @@
 [
     {
+        "id": "172381",
+        "imagesize": "15",
+        "kapak": "https://aktuelstudio2.com/tr/172381/1a.jpg",
+        "name": "A101",
+        "tarih": "01-07 Ekim 2026                                                    (Detaylı Ürünler)",
+        "url_01": "https://aktuelstudio2.com/tr/172381/1a.jpg",
+        "market": "A101"
+    },
+    {
         "id": "172380",
         "imagesize": "17",
         "kapak": "https://aktuelstudio2.com/tr/172380/1a.jpg",
@@ -258,15 +267,6 @@
         "name": "ŞOK",
         "tarih": "26-27 Eylül 2026",
         "url_01": "https://aktuelstudio2.com/tr/172326/1a.jpg",
-        "market": "ŞOK"
-    },
-    {
-        "id": "172325",
-        "imagesize": "3",
-        "kapak": "https://aktuelstudio2.com/tr/172325/1a.jpg",
-        "name": "ŞOK",
-        "tarih": "26-29 Eylül 2026",
-        "url_01": "https://aktuelstudio2.com/tr/172325/1a.jpg",
         "market": "ŞOK"
     }
 ]
