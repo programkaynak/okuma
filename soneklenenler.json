@@ -1,5 +1,14 @@
 [
     {
+        "id": "172398",
+        "imagesize": "1",
+        "kapak": "https://aktuelstudio2.com/tr/172398/1a.jpg",
+        "name": "ŞOK",
+        "tarih": "30 Eylül-06 Ekim 2026 (İste Gelsin)",
+        "url_01": "https://aktuelstudio2.com/tr/172398/1a.jpg",
+        "market": "ŞOK"
+    },
+    {
         "id": "172397",
         "imagesize": "2",
         "kapak": "https://aktuelstudio2.com/tr/172397/1a.jpg",
@@ -259,14 +268,5 @@
         "tarih": "01-04 Ekim 2026                                                   (Detaylı Ürünler)",
         "url_01": "https://aktuelstudio2.com/tr/172384/1a.jpg",
         "market": "A101"
-    },
-    {
-        "id": "19985",
-        "imagesize": "1",
-        "kapak": "https://aktuelstudio2.com/tr2/19985/a (1).webp",
-        "name": "Vatan",
-        "tarih": "26 Eylül-05 Ekim 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/19985/a (1).webp",
-        "market": "Vatan"
     }
 ]
