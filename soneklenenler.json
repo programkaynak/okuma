@@ -1,5 +1,14 @@
 [
     {
+        "id": "20051",
+        "imagesize": "7",
+        "kapak": "https://aktuelstudio2.com/tr2/20051/a (1).webp",
+        "name": "Çağri",
+        "tarih": "30 Eylül-02 Ekim 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/20051/a (1).webp",
+        "market": "Çağri"
+    },
+    {
         "id": "20046",
         "imagesize": "1",
         "kapak": "https://aktuelstudio2.com/tr2/20046/a (1).webp",
@@ -259,14 +268,5 @@
         "tarih": "01-15 Ekim 2026",
         "url_01": "https://aktuelstudio2.com/tr2/20033/a (1).webp",
         "market": "Carrefoursa"
-    },
-    {
-        "id": "20023",
-        "imagesize": "1",
-        "kapak": "https://aktuelstudio2.com/tr2/20023/a (1).webp",
-        "name": "EnglishHome",
-        "tarih": "Ekim 2026\nenglishhome.com",
-        "url_01": "https://aktuelstudio2.com/tr2/20023/a (1).webp",
-        "market": "EnglishHome"
     }
 ]
