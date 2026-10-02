@@ -1,5 +1,14 @@
 [
     {
+        "id": "20045",
+        "imagesize": "45",
+        "kapak": "https://aktuelstudio2.com/tr2/20045/a (1).webp",
+        "name": "Çetinkaya",
+        "tarih": "01-14 Ekim 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/20045/a (1).webp",
+        "market": "Çetinkaya"
+    },
+    {
         "id": "20056",
         "imagesize": "1",
         "kapak": "https://aktuelstudio2.com/tr2/20056/a (1).webp",
@@ -258,15 +267,6 @@
         "name": "EnglishHome",
         "tarih": "Ekim 2026\nenglishhome.com",
         "url_01": "https://aktuelstudio2.com/tr2/20022/a (1).webp",
-        "market": "EnglishHome"
-    },
-    {
-        "id": "20021",
-        "imagesize": "1",
-        "kapak": "https://aktuelstudio2.com/tr2/20021/a (1).jpg",
-        "name": "EnglishHome",
-        "tarih": "Ekim 2026\nenglishhome.com",
-        "url_01": "https://aktuelstudio2.com/tr2/20021/a (1).jpg",
         "market": "EnglishHome"
     }
 ]
