@@ -1,5 +1,14 @@
 [
     {
+        "id": "172413",
+        "imagesize": "5",
+        "kapak": "https://aktuelstudio2.com/tr/172413/1a.jpg",
+        "name": "ŞOK",
+        "tarih": "03 Ekim-04 Aralık 2026 (Kasa Arkası Kampanya)",
+        "url_01": "https://aktuelstudio2.com/tr/172413/1a.jpg",
+        "market": "ŞOK"
+    },
+    {
         "id": "172412",
         "imagesize": "1",
         "kapak": "https://aktuelstudio2.com/tr/172412/1a.jpg",
@@ -259,14 +268,5 @@
         "tarih": "30 Eylül-01 Aralık 2026",
         "url_01": "https://aktuelstudio2.com/tr/172397/1a.jpg",
         "market": "ŞOK"
-    },
-    {
-        "id": "172410",
-        "imagesize": "4",
-        "kapak": "https://aktuelstudio2.com/tr/172410/1a.jpg",
-        "name": "BİM",
-        "tarih": "09-15 Ekim 2026",
-        "url_01": "https://aktuelstudio2.com/tr/172410/1a.jpg",
-        "market": "BİM"
     }
 ]
