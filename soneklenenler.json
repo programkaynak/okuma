@@ -1,5 +1,14 @@
 [
     {
+        "id": "20073",
+        "imagesize": "28",
+        "kapak": "https://aktuelstudio2.com/tr2/20073/a (1).webp",
+        "name": "Bauhaus",
+        "tarih": "03-30 Oktober 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/20073/a (1).webp",
+        "market": "Bauhaus"
+    },
+    {
         "id": "172431",
         "imagesize": "3",
         "kapak": "https://aktuelstudio2.com/tr/172431/1a.jpg",
@@ -259,14 +268,5 @@
         "tarih": "01-04 Ekim 2026",
         "url_01": "https://aktuelstudio2.com/tr2/20056/a (1).webp",
         "market": "HappyCenter"
-    },
-    {
-        "id": "20057",
-        "imagesize": "1",
-        "kapak": "https://aktuelstudio2.com/tr2/20057/a (1).webp",
-        "name": "Hakmar",
-        "tarih": "02-04 Ekim 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/20057/a (1).webp",
-        "market": "Hakmar"
     }
 ]
