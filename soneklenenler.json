@@ -1,5 +1,14 @@
 [
     {
+        "id": "172465",
+        "imagesize": "91",
+        "kapak": "https://aktuelstudio2.com/tr/172465/1a.jpg",
+        "name": "BİM",
+        "tarih": "06-12 Ekim 2026                                                    (Detaylı Ürünler)",
+        "url_01": "https://aktuelstudio2.com/tr/172465/1a.jpg",
+        "market": "BİM"
+    },
+    {
         "id": "172462",
         "imagesize": "3",
         "kapak": "https://aktuelstudio2.com/tr/172462/1a.jpg",
@@ -259,14 +268,5 @@
         "tarih": "30 Eylül-02 Ekim 2026",
         "url_01": "https://aktuelstudio2.com/tr2/20051/a (1).webp",
         "market": "Çağri"
-    },
-    {
-        "id": "20046",
-        "imagesize": "1",
-        "kapak": "https://aktuelstudio2.com/tr2/20046/a (1).webp",
-        "name": "Çetinkaya",
-        "tarih": "11 Ekim 2026 Tarihine Kadar",
-        "url_01": "https://aktuelstudio2.com/tr2/20046/a (1).webp",
-        "market": "Çetinkaya"
     }
 ]
