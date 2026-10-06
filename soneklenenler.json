@@ -1,5 +1,14 @@
 [
     {
+        "id": "172471",
+        "imagesize": "1",
+        "kapak": "https://aktuelstudio2.com/tr/172471/1a.jpg",
+        "name": "ŞOK",
+        "tarih": "07-13 Ekim 2026                                                    (Win Kampanya)",
+        "url_01": "https://aktuelstudio2.com/tr/172471/1a.jpg",
+        "market": "ŞOK"
+    },
+    {
         "id": "172470",
         "imagesize": "20",
         "kapak": "https://aktuelstudio2.com/tr/172470/1a.jpg",
@@ -259,14 +268,5 @@
         "tarih": "01-26 Ekim 2026",
         "url_01": "https://aktuelstudio2.com/tr2/20042/a (1).webp",
         "market": "Gratis"
-    },
-    {
-        "id": "20053",
-        "imagesize": "16",
-        "kapak": "https://aktuelstudio2.com/tr2/20053/a (1).webp",
-        "name": "Çağri",
-        "tarih": "02-12 Ekim 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/20053/a (1).webp",
-        "market": "Çağri"
     }
 ]
