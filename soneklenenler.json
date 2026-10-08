@@ -1,5 +1,14 @@
 [
     {
+        "id": "20117",
+        "imagesize": "1",
+        "kapak": "https://aktuelstudio2.com/tr2/20117/a (1).webp",
+        "name": "Çağri",
+        "tarih": "08-11 Ekim 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/20117/a (1).webp",
+        "market": "Çağri"
+    },
+    {
         "id": "20116",
         "imagesize": "2",
         "kapak": "https://aktuelstudio2.com/tr2/20116/a (1).webp",
@@ -259,14 +268,5 @@
         "tarih": "07-11 Ekim 2026",
         "url_01": "https://aktuelstudio2.com/tr2/20104/a (1).webp",
         "market": "HappyCenter"
-    },
-    {
-        "id": "20098",
-        "imagesize": "1",
-        "kapak": "https://aktuelstudio2.com/tr2/20098/a (1).webp",
-        "name": "Onur",
-        "tarih": "06-12 Ekim 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/20098/a (1).webp",
-        "market": "Onur"
     }
 ]
