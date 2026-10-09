@@ -1,5 +1,14 @@
 [
     {
+        "id": "172503",
+        "imagesize": "21",
+        "kapak": "https://aktuelstudio2.com/tr/172503/1a.jpg",
+        "name": "BİM",
+        "tarih": "09-12 Ekim 2026                                                   (Detaylı Ürünler)",
+        "url_01": "https://aktuelstudio2.com/tr/172503/1a.jpg",
+        "market": "BİM"
+    },
+    {
         "id": "172502",
         "imagesize": "15",
         "kapak": "https://aktuelstudio2.com/tr/172502/1a.jpg",
@@ -258,15 +267,6 @@
         "name": "Migros",
         "tarih": "08-21 Ekim 2026",
         "url_01": "https://aktuelstudio2.com/tr2/20124/a (1).webp",
-        "market": "Migros"
-    },
-    {
-        "id": "20123",
-        "imagesize": "108",
-        "kapak": "https://aktuelstudio2.com/tr2/20123/a (1).webp",
-        "name": "Migros",
-        "tarih": "08-21 Ekim 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/20123/a (1).webp",
         "market": "Migros"
     }
 ]
