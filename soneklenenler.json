@@ -1,5 +1,14 @@
 [
     {
+        "id": "172506",
+        "imagesize": "22",
+        "kapak": "https://aktuelstudio2.com/tr/172506/1a.jpg",
+        "name": "BİM",
+        "tarih": "09-12 Ekim 2026                                                   (Detaylı Ürünler)",
+        "url_01": "https://aktuelstudio2.com/tr/172506/1a.jpg",
+        "market": "BİM"
+    },
+    {
         "id": "172505",
         "imagesize": "27",
         "kapak": "https://aktuelstudio2.com/tr/172505/1a.jpg",
@@ -259,14 +268,5 @@
         "tarih": "07-13 Ekim 2026",
         "url_01": "https://aktuelstudio2.com/tr2/20118/a (1).webp",
         "market": "Metro"
-    },
-    {
-        "id": "20122",
-        "imagesize": "11",
-        "kapak": "https://aktuelstudio2.com/tr2/20122/a (1).webp",
-        "name": "Carrefoursa",
-        "tarih": "01-31 Ekim 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/20122/a (1).webp",
-        "market": "Carrefoursa"
     }
 ]
