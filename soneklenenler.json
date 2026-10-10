@@ -1,5 +1,14 @@
 [
     {
+        "id": "20145",
+        "imagesize": "3",
+        "kapak": "https://aktuelstudio2.com/tr2/20145/a (1).webp",
+        "name": "Gratis",
+        "tarih": "09-11 Ekim 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/20145/a (1).webp",
+        "market": "Gratis"
+    },
+    {
         "id": "20150",
         "imagesize": "1",
         "kapak": "https://aktuelstudio2.com/tr2/20150/a (1).webp",
@@ -259,14 +268,5 @@
         "tarih": "07-20 Ekim 2026",
         "url_01": "https://aktuelstudio2.com/tr2/20131/a (1).webp",
         "market": "Bizim"
-    },
-    {
-        "id": "20135",
-        "imagesize": "30",
-        "kapak": "https://aktuelstudio2.com/tr2/20135/a (1).webp",
-        "name": "Metro",
-        "tarih": "07-13 Ekim 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/20135/a (1).webp",
-        "market": "Metro"
     }
 ]
