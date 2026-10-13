@@ -1,5 +1,14 @@
 [
     {
+        "id": "20172",
+        "imagesize": "4",
+        "kapak": "https://aktuelstudio2.com/tr2/20172/a (1).webp",
+        "name": "Çağri",
+        "tarih": "12-16 Ekim 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/20172/a (1).webp",
+        "market": "Çağri"
+    },
+    {
         "id": "20174",
         "imagesize": "1",
         "kapak": "https://aktuelstudio2.com/tr2/20174/a (1).webp",
@@ -259,14 +268,5 @@
         "tarih": "09-11 Ekim 2026",
         "url_01": "https://aktuelstudio2.com/tr/172513/1a.jpg",
         "market": "A101"
-    },
-    {
-        "id": "172551",
-        "imagesize": "2",
-        "kapak": "https://aktuelstudio2.com/tr/172551/1a.jpg",
-        "name": "ŞOK",
-        "tarih": "10-13 Ekim 2026",
-        "url_01": "https://aktuelstudio2.com/tr/172551/1a.jpg",
-        "market": "ŞOK"
     }
 ]
