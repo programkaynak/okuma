@@ -1,5 +1,23 @@
 [
     {
+        "id": "20205",
+        "imagesize": "2",
+        "kapak": "https://aktuelstudio2.com/tr2/20205/a (1).webp",
+        "name": "Carrefoursa",
+        "tarih": "13-19 Ekim 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/20205/a (1).webp",
+        "market": "Carrefoursa"
+    },
+    {
+        "id": "20204",
+        "imagesize": "3",
+        "kapak": "https://aktuelstudio2.com/tr2/20204/a (1).webp",
+        "name": "Carrefoursa",
+        "tarih": "13-19 Ekim 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/20204/a (1).webp",
+        "market": "Carrefoursa"
+    },
+    {
         "id": "20203",
         "imagesize": "1",
         "kapak": "https://aktuelstudio2.com/tr2/20203/a (1).webp",
@@ -250,23 +268,5 @@
         "tarih": "Ekim 2026\nenglishhome.com",
         "url_01": "https://aktuelstudio2.com/tr2/20149/a (1).webp",
         "market": "EnglishHome"
-    },
-    {
-        "id": "20145",
-        "imagesize": "3",
-        "kapak": "https://aktuelstudio2.com/tr2/20145/a (1).webp",
-        "name": "Gratis",
-        "tarih": "09-11 Ekim 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/20145/a (1).webp",
-        "market": "Gratis"
-    },
-    {
-        "id": "20150",
-        "imagesize": "1",
-        "kapak": "https://aktuelstudio2.com/tr2/20150/a (1).webp",
-        "name": "Bizim",
-        "tarih": "10-13 Ekim 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/20150/a (1).webp",
-        "market": "Bizim"
     }
 ]
