@@ -1,5 +1,14 @@
 [
     {
+        "id": "172589",
+        "imagesize": "11",
+        "kapak": "https://aktuelstudio2.com/tr/172589/1a.jpg",
+        "name": "ŞOK",
+        "tarih": "15-31 Ekim 2026                                                    (Mama Kampanya)",
+        "url_01": "https://aktuelstudio2.com/tr/172589/1a.jpg",
+        "market": "ŞOK"
+    },
+    {
         "id": "172588",
         "imagesize": "1",
         "kapak": "https://aktuelstudio2.com/tr/172588/1a.jpg",
@@ -258,15 +267,6 @@
         "name": "Carrefoursa",
         "tarih": "13-19 Ekim 2026",
         "url_01": "https://aktuelstudio2.com/tr2/20205/a (1).webp",
-        "market": "Carrefoursa"
-    },
-    {
-        "id": "20204",
-        "imagesize": "3",
-        "kapak": "https://aktuelstudio2.com/tr2/20204/a (1).webp",
-        "name": "Carrefoursa",
-        "tarih": "13-19 Ekim 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/20204/a (1).webp",
         "market": "Carrefoursa"
     }
 ]
