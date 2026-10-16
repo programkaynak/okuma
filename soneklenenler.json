@@ -1,5 +1,14 @@
 [
     {
+        "id": "172650",
+        "imagesize": "2",
+        "kapak": "https://aktuelstudio2.com/tr/172650/1a.jpg",
+        "name": "ŞOK",
+        "tarih": "17-20 Ekim 2026                                                    (İste Gelsin)",
+        "url_01": "https://aktuelstudio2.com/tr/172650/1a.jpg",
+        "market": "ŞOK"
+    },
+    {
         "id": "172610",
         "imagesize": "2",
         "kapak": "https://aktuelstudio2.com/tr/172610/1a.jpg",
@@ -259,14 +268,5 @@
         "tarih": "14-14 Ekim 2026",
         "url_01": "https://aktuelstudio2.com/tr2/20206/a (1).webp",
         "market": "HappyCenter"
-    },
-    {
-        "id": "20207",
-        "imagesize": "2",
-        "kapak": "https://aktuelstudio2.com/tr2/20207/a (1).webp",
-        "name": "Hakmar",
-        "tarih": "13-26 Ekim 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/20207/a (1).webp",
-        "market": "Hakmar"
     }
 ]
