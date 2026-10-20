@@ -1,5 +1,14 @@
 [
     {
+        "id": "172674",
+        "imagesize": "1",
+        "kapak": "https://aktuelstudio2.com/tr/172674/1a.jpg",
+        "name": "ŞOK",
+        "tarih": "21-27 Ekim 2026                                                    (Win Kampanya)",
+        "url_01": "https://aktuelstudio2.com/tr/172674/1a.jpg",
+        "market": "ŞOK"
+    },
+    {
         "id": "172668",
         "imagesize": "1",
         "kapak": "https://aktuelstudio2.com/tr/172668/1a.jpg",
@@ -258,15 +267,6 @@
         "name": "BİM",
         "tarih": "17-23 Ekim 2026",
         "url_01": "https://aktuelstudio2.com/tr/172618/1a.jpg",
-        "market": "BİM"
-    },
-    {
-        "id": "172617",
-        "imagesize": "1",
-        "kapak": "https://aktuelstudio2.com/tr/172617/1a.jpg",
-        "name": "BİM",
-        "tarih": "17-30 Ekim 2026",
-        "url_01": "https://aktuelstudio2.com/tr/172617/1a.jpg",
         "market": "BİM"
     }
 ]
