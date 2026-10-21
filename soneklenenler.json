@@ -1,5 +1,14 @@
 [
     {
+        "id": "20288",
+        "imagesize": "4",
+        "kapak": "https://aktuelstudio2.com/tr2/20288/a (1).webp",
+        "name": "Bizim",
+        "tarih": "21-27 Ekim 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/20288/a (1).webp",
+        "market": "Bizim"
+    },
+    {
         "id": "20287",
         "imagesize": "4",
         "kapak": "https://aktuelstudio2.com/tr2/20287/a (1).webp",
@@ -259,14 +268,5 @@
         "tarih": "17 Ekim-16 Kasım 2026",
         "url_01": "https://aktuelstudio2.com/tr/172630/1a.jpg",
         "market": "BİM"
-    },
-    {
-        "id": "172656",
-        "imagesize": "41",
-        "kapak": "https://aktuelstudio2.com/tr/172656/1a.jpg",
-        "name": "A101",
-        "tarih": "17-23 Ekim 2026                                                    (Haftanın Yıldızları)",
-        "url_01": "https://aktuelstudio2.com/tr/172656/1a.jpg",
-        "market": "A101"
     }
 ]
