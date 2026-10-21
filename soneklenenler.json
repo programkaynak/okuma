@@ -1,5 +1,14 @@
 [
     {
+        "id": "20286",
+        "imagesize": "1",
+        "kapak": "https://aktuelstudio2.com/tr2/20286/a (1).webp",
+        "name": "EnglishHome",
+        "tarih": "Ekim 2026\nenglishhome.com",
+        "url_01": "https://aktuelstudio2.com/tr2/20286/a (1).webp",
+        "market": "EnglishHome"
+    },
+    {
         "id": "20284",
         "imagesize": "7",
         "kapak": "https://aktuelstudio2.com/tr2/20284/a (1).webp",
@@ -259,14 +268,5 @@
         "tarih": "17-19 Ekim 2026",
         "url_01": "https://aktuelstudio2.com/tr2/20257/a (1).webp",
         "market": "Kooperatif"
-    },
-    {
-        "id": "20252",
-        "imagesize": "2",
-        "kapak": "https://aktuelstudio2.com/tr2/20252/a (1).webp",
-        "name": "Hakmar",
-        "tarih": "16-18 Ekim 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/20252/a (1).webp",
-        "market": "Hakmar"
     }
 ]
