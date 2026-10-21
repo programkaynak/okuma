@@ -1,5 +1,14 @@
 [
     {
+        "id": "172679",
+        "imagesize": "1",
+        "kapak": "https://aktuelstudio2.com/tr/172679/1a.jpg",
+        "name": "ŞOK",
+        "tarih": "21-31 Ekim 2026",
+        "url_01": "https://aktuelstudio2.com/tr/172679/1a.jpg",
+        "market": "ŞOK"
+    },
+    {
         "id": "172678",
         "imagesize": "1",
         "kapak": "https://aktuelstudio2.com/tr/172678/1a.jpg",
@@ -258,15 +267,6 @@
         "name": "BİM",
         "tarih": "28 Ekim-03 Kasım 2026 (Eve Teslim)",
         "url_01": "https://aktuelstudio2.com/tr/172670/1a.jpg",
-        "market": "BİM"
-    },
-    {
-        "id": "172669",
-        "imagesize": "1",
-        "kapak": "https://aktuelstudio2.com/tr/172669/1a.jpg",
-        "name": "BİM",
-        "tarih": "20 Ekim-30 Kasım 2026",
-        "url_01": "https://aktuelstudio2.com/tr/172669/1a.jpg",
         "market": "BİM"
     }
 ]
