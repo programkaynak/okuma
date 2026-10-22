@@ -1,5 +1,14 @@
 [
     {
+        "id": "20315",
+        "imagesize": "1",
+        "kapak": "https://aktuelstudio2.com/tr2/20315/a (1).webp",
+        "name": "Kooperatif",
+        "tarih": "22-22 Ekim 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/20315/a (1).webp",
+        "market": "Kooperatif"
+    },
+    {
         "id": "20319",
         "imagesize": "5",
         "kapak": "https://aktuelstudio2.com/tr2/20319/a (1).webp",
@@ -258,15 +267,6 @@
         "name": "Gratis",
         "tarih": "12-26 Ekim 2026",
         "url_01": "https://aktuelstudio2.com/tr2/20282/a (1).webp",
-        "market": "Gratis"
-    },
-    {
-        "id": "20281",
-        "imagesize": "3",
-        "kapak": "https://aktuelstudio2.com/tr2/20281/a (1).webp",
-        "name": "Gratis",
-        "tarih": "20-21 Ekim 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/20281/a (1).webp",
         "market": "Gratis"
     }
 ]
