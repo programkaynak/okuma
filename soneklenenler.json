@@ -1,5 +1,14 @@
 [
     {
+        "id": "20318",
+        "imagesize": "5",
+        "kapak": "https://aktuelstudio2.com/tr2/20318/a (1).webp",
+        "name": "Carrefoursa",
+        "tarih": "21-27 Ekim 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/20318/a (1).webp",
+        "market": "Carrefoursa"
+    },
+    {
         "id": "20323",
         "imagesize": "102",
         "kapak": "https://aktuelstudio2.com/tr2/20323/a (1).webp",
@@ -259,14 +268,5 @@
         "tarih": "20-26 Ekim 2026",
         "url_01": "https://aktuelstudio2.com/tr2/20280/a (1).webp",
         "market": "Gratis"
-    },
-    {
-        "id": "20294",
-        "imagesize": "1",
-        "kapak": "https://aktuelstudio2.com/tr2/20294/a (1).webp",
-        "name": "Seyhanlar",
-        "tarih": "19-25 Ekim 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/20294/a (1).webp",
-        "market": "Seyhanlar"
     }
 ]
