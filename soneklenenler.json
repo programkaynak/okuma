@@ -1,5 +1,14 @@
 [
     {
+        "id": "20309",
+        "imagesize": "1",
+        "kapak": "https://aktuelstudio2.com/tr2/20309/a (1).webp",
+        "name": "Bizim",
+        "tarih": "21-31 Ekim 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/20309/a (1).webp",
+        "market": "Bizim"
+    },
+    {
         "id": "20317",
         "imagesize": "6",
         "kapak": "https://aktuelstudio2.com/tr2/20317/a (1).webp",
@@ -259,14 +268,5 @@
         "tarih": "19-26 Ekim 2026",
         "url_01": "https://aktuelstudio2.com/tr2/20284/a (1).webp",
         "market": "Vatan"
-    },
-    {
-        "id": "20283",
-        "imagesize": "2",
-        "kapak": "https://aktuelstudio2.com/tr2/20283/a (1).webp",
-        "name": "Gratis",
-        "tarih": "15-27 Ekim 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/20283/a (1).webp",
-        "market": "Gratis"
     }
 ]
