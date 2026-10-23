@@ -1,5 +1,14 @@
 [
     {
+        "id": "172703",
+        "imagesize": "25",
+        "kapak": "https://aktuelstudio2.com/tr/172703/1a.jpg",
+        "name": "BİM",
+        "tarih": "23-26 Ekim 2026                                                   (Detaylı Ürünler)",
+        "url_01": "https://aktuelstudio2.com/tr/172703/1a.jpg",
+        "market": "BİM"
+    },
+    {
         "id": "172702",
         "imagesize": "34",
         "kapak": "https://aktuelstudio2.com/tr/172702/1a.jpg",
@@ -258,15 +267,6 @@
         "name": "Hakmar",
         "tarih": "20 Ekim-10 Kasım 2026",
         "url_01": "https://aktuelstudio2.com/tr2/20302/a (1).webp",
-        "market": "Hakmar"
-    },
-    {
-        "id": "20301",
-        "imagesize": "2",
-        "kapak": "https://aktuelstudio2.com/tr2/20301/a (1).webp",
-        "name": "Hakmar",
-        "tarih": "20 Ekim-02 Kasım 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/20301/a (1).webp",
         "market": "Hakmar"
     }
 ]
