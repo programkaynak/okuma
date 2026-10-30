@@ -1,5 +1,14 @@
 [
     {
+        "id": "20422",
+        "imagesize": "6",
+        "kapak": "https://aktuelstudio2.com/tr2/20422/a (1).webp",
+        "name": "Carrefoursa",
+        "tarih": "01 Kasım 2026 Tarihine Kadar",
+        "url_01": "https://aktuelstudio2.com/tr2/20422/a (1).webp",
+        "market": "Carrefoursa"
+    },
+    {
         "id": "20421",
         "imagesize": "2",
         "kapak": "https://aktuelstudio2.com/tr2/20421/a (1).webp",
@@ -259,14 +268,5 @@
         "tarih": "08-31 Ekim 2026",
         "url_01": "https://aktuelstudio2.com/tr2/20390/a (1).webp",
         "market": "Çağri"
-    },
-    {
-        "id": "20387",
-        "imagesize": "8",
-        "kapak": "https://aktuelstudio2.com/tr2/20387/a (1).webp",
-        "name": "Onur",
-        "tarih": "27 Ekim-08 Kasım 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/20387/a (1).webp",
-        "market": "Onur"
     }
 ]
