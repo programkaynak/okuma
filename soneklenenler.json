@@ -1,5 +1,14 @@
 [
     {
+        "id": "20426",
+        "imagesize": "24",
+        "kapak": "https://aktuelstudio2.com/tr2/20426/a (1).webp",
+        "name": "Bauhaus",
+        "tarih": "31 Ekim-27 Kasım 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/20426/a (1).webp",
+        "market": "Bauhaus"
+    },
+    {
         "id": "20441",
         "imagesize": "1",
         "kapak": "https://aktuelstudio2.com/tr2/20441/a (1).webp",
@@ -258,15 +267,6 @@
         "name": "BİM",
         "tarih": "30 Ekim-02 Kasım 2026 (Detaylı Ürünler)",
         "url_01": "https://aktuelstudio2.com/tr/172799/1a.jpg",
-        "market": "BİM"
-    },
-    {
-        "id": "172798",
-        "imagesize": "15",
-        "kapak": "https://aktuelstudio2.com/tr/172798/1a.jpg",
-        "name": "BİM",
-        "tarih": "30 Ekim-02 Kasım 2026 (Detaylı Ürünler)",
-        "url_01": "https://aktuelstudio2.com/tr/172798/1a.jpg",
         "market": "BİM"
     }
 ]
