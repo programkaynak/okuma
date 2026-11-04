@@ -1,111 +1,12 @@
 [
     {
-        "id": "20481",
+        "id": "172877",
         "imagesize": "1",
-        "kapak": "https://aktuelstudio2.com/tr2/20481/a (1).png",
-        "name": "EnglishHome",
-        "tarih": "Kasım 2026\nenglishhome.com",
-        "url_01": "https://aktuelstudio2.com/tr2/20481/a (1).png",
-        "market": "EnglishHome"
-    },
-    {
-        "id": "20476",
-        "imagesize": "48",
-        "kapak": "https://aktuelstudio2.com/tr2/20476/a (1).webp",
-        "name": "Gratis",
-        "tarih": "04-30 Kasım 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/20476/a (1).webp",
-        "market": "Gratis"
-    },
-    {
-        "id": "20494",
-        "imagesize": "1",
-        "kapak": "https://aktuelstudio2.com/tr2/20494/a (1).webp",
-        "name": "Seyhanlar",
-        "tarih": "02-08 Kasım 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/20494/a (1).webp",
-        "market": "Seyhanlar"
-    },
-    {
-        "id": "20499",
-        "imagesize": "8",
-        "kapak": "https://aktuelstudio2.com/tr2/20499/a (1).webp",
-        "name": "HappyCenter",
-        "tarih": "04-17 Kasım 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/20499/a (1).webp",
-        "market": "HappyCenter"
-    },
-    {
-        "id": "20498",
-        "imagesize": "8",
-        "kapak": "https://aktuelstudio2.com/tr2/20498/a (1).webp",
-        "name": "HappyCenter",
-        "tarih": "04-17 Kasım 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/20498/a (1).webp",
-        "market": "HappyCenter"
-    },
-    {
-        "id": "20501",
-        "imagesize": "8",
-        "kapak": "https://aktuelstudio2.com/tr2/20501/a (1).webp",
-        "name": "Hakmar",
-        "tarih": "15 Kasım 2026 Tarihine Kadar",
-        "url_01": "https://aktuelstudio2.com/tr2/20501/a (1).webp",
-        "market": "Hakmar"
-    },
-    {
-        "id": "20500",
-        "imagesize": "4",
-        "kapak": "https://aktuelstudio2.com/tr2/20500/a (1).webp",
-        "name": "Hakmar",
-        "tarih": "03-16 Kasım 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/20500/a (1).webp",
-        "market": "Hakmar"
-    },
-    {
-        "id": "20492",
-        "imagesize": "1",
-        "kapak": "https://aktuelstudio2.com/tr2/20492/a (1).webp",
-        "name": "Onur",
-        "tarih": "03-09 Kasım 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/20492/a (1).webp",
-        "market": "Onur"
-    },
-    {
-        "id": "20483",
-        "imagesize": "5",
-        "kapak": "https://aktuelstudio2.com/tr2/20483/a (1).webp",
-        "name": "Bizim",
-        "tarih": "04-10 Kasım 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/20483/a (1).webp",
-        "market": "Bizim"
-    },
-    {
-        "id": "20482",
-        "imagesize": "5",
-        "kapak": "https://aktuelstudio2.com/tr2/20482/a (1).webp",
-        "name": "Bizim",
-        "tarih": "04-10 Kasım 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/20482/a (1).webp",
-        "market": "Bizim"
-    },
-    {
-        "id": "20497",
-        "imagesize": "7",
-        "kapak": "https://aktuelstudio2.com/tr2/20497/a (1).webp",
-        "name": "Metro",
-        "tarih": "04-10 Kasım 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/20497/a (1).webp",
-        "market": "Metro"
-    },
-    {
-        "id": "20495",
-        "imagesize": "2",
-        "kapak": "https://aktuelstudio2.com/tr2/20495/a (1).webp",
-        "name": "Kooperatif",
-        "tarih": "03-09 Kasım 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/20495/a (1).webp",
-        "market": "Kooperatif"
+        "kapak": "https://aktuelstudio2.com/tr/172877/1a.jpg",
+        "name": "A101",
+        "tarih": "04 Kasım-29 Aralık 2026",
+        "url_01": "https://aktuelstudio2.com/tr/172877/1a.jpg",
+        "market": "A101"
     },
     {
         "id": "20462",
@@ -268,5 +169,104 @@
         "tarih": "10-16 Kasım 2026",
         "url_01": "https://aktuelstudio2.com/tr/172864/1a.jpg",
         "market": "BİM"
+    },
+    {
+        "id": "172863",
+        "imagesize": "3",
+        "kapak": "https://aktuelstudio2.com/tr/172863/1a.jpg",
+        "name": "BİM",
+        "tarih": "08-14 Kasım 2026",
+        "url_01": "https://aktuelstudio2.com/tr/172863/1a.jpg",
+        "market": "BİM"
+    },
+    {
+        "id": "172862",
+        "imagesize": "1",
+        "kapak": "https://aktuelstudio2.com/tr/172862/1a.jpg",
+        "name": "BİM",
+        "tarih": "11-17 Kasım 2026                                                   (Eve Teslim)",
+        "url_01": "https://aktuelstudio2.com/tr/172862/1a.jpg",
+        "market": "BİM"
+    },
+    {
+        "id": "172861",
+        "imagesize": "1",
+        "kapak": "https://aktuelstudio2.com/tr/172861/1a.jpg",
+        "name": "BİM",
+        "tarih": "04-10 Kasım 2026                                                   (Eve Teslim)",
+        "url_01": "https://aktuelstudio2.com/tr/172861/1a.jpg",
+        "market": "BİM"
+    },
+    {
+        "id": "20426",
+        "imagesize": "24",
+        "kapak": "https://aktuelstudio2.com/tr2/20426/a (1).webp",
+        "name": "Bauhaus",
+        "tarih": "31 Ekim-27 Kasım 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/20426/a (1).webp",
+        "market": "Bauhaus"
+    },
+    {
+        "id": "20441",
+        "imagesize": "1",
+        "kapak": "https://aktuelstudio2.com/tr2/20441/a (1).webp",
+        "name": "Hakmar",
+        "tarih": "30 Ekim-01 Kasım 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/20441/a (1).webp",
+        "market": "Hakmar"
+    },
+    {
+        "id": "20440",
+        "imagesize": "8",
+        "kapak": "https://aktuelstudio2.com/tr2/20440/a (1).webp",
+        "name": "Hakmar",
+        "tarih": "29 Ekim-09 Kasım 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/20440/a (1).webp",
+        "market": "Hakmar"
+    },
+    {
+        "id": "20439",
+        "imagesize": "2",
+        "kapak": "https://aktuelstudio2.com/tr2/20439/a (1).webp",
+        "name": "Hakmar",
+        "tarih": "30 Ekim-01 Kasım 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/20439/a (1).webp",
+        "market": "Hakmar"
+    },
+    {
+        "id": "20434",
+        "imagesize": "1",
+        "kapak": "https://aktuelstudio2.com/tr2/20434/a (1).webp",
+        "name": "Onur",
+        "tarih": "27 Ekim-02 Kasım 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/20434/a (1).webp",
+        "market": "Onur"
+    },
+    {
+        "id": "20429",
+        "imagesize": "1",
+        "kapak": "https://aktuelstudio2.com/tr2/20429/a (1).webp",
+        "name": "Bizim",
+        "tarih": "31 Ekim-03 Kasım 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/20429/a (1).webp",
+        "market": "Bizim"
+    },
+    {
+        "id": "20437",
+        "imagesize": "6",
+        "kapak": "https://aktuelstudio2.com/tr2/20437/a (1).webp",
+        "name": "Metro",
+        "tarih": "28 Ekim-03 Kasım 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/20437/a (1).webp",
+        "market": "Metro"
+    },
+    {
+        "id": "20438",
+        "imagesize": "5",
+        "kapak": "https://aktuelstudio2.com/tr2/20438/a (1).webp",
+        "name": "Carrefoursa",
+        "tarih": "28 Ekim-03 Kasım 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/20438/a (1).webp",
+        "market": "Carrefoursa"
     }
 ]
