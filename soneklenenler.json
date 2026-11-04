@@ -1,5 +1,23 @@
 [
     {
+        "id": "20492",
+        "imagesize": "1",
+        "kapak": "https://aktuelstudio2.com/tr2/20492/a (1).webp",
+        "name": "Onur",
+        "tarih": "03-09 Kasım 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/20492/a (1).webp",
+        "market": "Onur"
+    },
+    {
+        "id": "20483",
+        "imagesize": "5",
+        "kapak": "https://aktuelstudio2.com/tr2/20483/a (1).webp",
+        "name": "Bizim",
+        "tarih": "04-10 Kasım 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/20483/a (1).webp",
+        "market": "Bizim"
+    },
+    {
         "id": "20482",
         "imagesize": "5",
         "kapak": "https://aktuelstudio2.com/tr2/20482/a (1).webp",
@@ -250,23 +268,5 @@
         "tarih": "30 Ekim-01 Kasım 2026",
         "url_01": "https://aktuelstudio2.com/tr2/20439/a (1).webp",
         "market": "Hakmar"
-    },
-    {
-        "id": "20434",
-        "imagesize": "1",
-        "kapak": "https://aktuelstudio2.com/tr2/20434/a (1).webp",
-        "name": "Onur",
-        "tarih": "27 Ekim-02 Kasım 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/20434/a (1).webp",
-        "market": "Onur"
-    },
-    {
-        "id": "20429",
-        "imagesize": "1",
-        "kapak": "https://aktuelstudio2.com/tr2/20429/a (1).webp",
-        "name": "Bizim",
-        "tarih": "31 Ekim-03 Kasım 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/20429/a (1).webp",
-        "market": "Bizim"
     }
 ]
