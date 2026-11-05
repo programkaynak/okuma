@@ -1,5 +1,14 @@
 [
     {
+        "id": "20514",
+        "imagesize": "1",
+        "kapak": "https://aktuelstudio2.com/tr2/20514/a (1).webp",
+        "name": "EnglishHome",
+        "tarih": "Kasım 2026\nenglishhome.com",
+        "url_01": "https://aktuelstudio2.com/tr2/20514/a (1).webp",
+        "market": "EnglishHome"
+    },
+    {
         "id": "20511",
         "imagesize": "7",
         "kapak": "https://aktuelstudio2.com/tr2/20511/a (1).webp",
@@ -258,15 +267,6 @@
         "name": "ŞOK",
         "tarih": "04 Kasım 2026",
         "url_01": "https://aktuelstudio2.com/tr/172876/1a.jpg",
-        "market": "ŞOK"
-    },
-    {
-        "id": "172875",
-        "imagesize": "15",
-        "kapak": "https://aktuelstudio2.com/tr/172875/1a.jpg",
-        "name": "ŞOK",
-        "tarih": "04-10 Kasım 2026                                                   (Detaylı Ürünler)",
-        "url_01": "https://aktuelstudio2.com/tr/172875/1a.jpg",
         "market": "ŞOK"
     }
 ]
