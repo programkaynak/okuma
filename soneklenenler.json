@@ -1,5 +1,14 @@
 [
     {
+        "id": "172903",
+        "imagesize": "1",
+        "kapak": "https://aktuelstudio2.com/tr/172903/1a.jpg",
+        "name": "ŞOK",
+        "tarih": "06-12 Kasım 2026",
+        "url_01": "https://aktuelstudio2.com/tr/172903/1a.jpg",
+        "market": "ŞOK"
+    },
+    {
         "id": "172902",
         "imagesize": "2",
         "kapak": "https://aktuelstudio2.com/tr/172902/1a.jpg",
@@ -259,14 +268,5 @@
         "tarih": "05-11 Kasım 2026",
         "url_01": "https://aktuelstudio2.com/tr/172883/1a.jpg",
         "market": "A101"
-    },
-    {
-        "id": "20481",
-        "imagesize": "1",
-        "kapak": "https://aktuelstudio2.com/tr2/20481/a (1).png",
-        "name": "EnglishHome",
-        "tarih": "Kasım 2026\nenglishhome.com",
-        "url_01": "https://aktuelstudio2.com/tr2/20481/a (1).png",
-        "market": "EnglishHome"
     }
 ]
