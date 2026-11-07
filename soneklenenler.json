@@ -1,5 +1,14 @@
 [
     {
+        "id": "20532",
+        "imagesize": "3",
+        "kapak": "https://aktuelstudio2.com/tr2/20532/a (1).webp",
+        "name": "Gratis",
+        "tarih": "06-08 Kasım 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/20532/a (1).webp",
+        "market": "Gratis"
+    },
+    {
         "id": "20552",
         "imagesize": "2",
         "kapak": "https://aktuelstudio2.com/tr2/20552/a (1).webp",
@@ -258,15 +267,6 @@
         "name": "ŞOK",
         "tarih": "07-10 Kasım 2026                                                    (İste Gelsin)",
         "url_01": "https://aktuelstudio2.com/tr/172950/1a.jpg",
-        "market": "ŞOK"
-    },
-    {
-        "id": "172904",
-        "imagesize": "1",
-        "kapak": "https://aktuelstudio2.com/tr/172904/1a.jpg",
-        "name": "ŞOK",
-        "tarih": "06 Kasım 2026",
-        "url_01": "https://aktuelstudio2.com/tr/172904/1a.jpg",
         "market": "ŞOK"
     }
 ]
