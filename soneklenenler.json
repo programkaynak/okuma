@@ -1,5 +1,23 @@
 [
     {
+        "id": "20613",
+        "imagesize": "4",
+        "kapak": "https://aktuelstudio2.com/tr2/20613/a (1).webp",
+        "name": "Hakmar",
+        "tarih": "11-15 Kasım 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/20613/a (1).webp",
+        "market": "Hakmar"
+    },
+    {
+        "id": "20612",
+        "imagesize": "2",
+        "kapak": "https://aktuelstudio2.com/tr2/20612/a (1).webp",
+        "name": "Hakmar",
+        "tarih": "10-23 Kasım 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/20612/a (1).webp",
+        "market": "Hakmar"
+    },
+    {
         "id": "20611",
         "imagesize": "1",
         "kapak": "https://aktuelstudio2.com/tr2/20611/a (1).webp",
@@ -250,23 +268,5 @@
         "tarih": "09-15 Kasım 2026",
         "url_01": "https://aktuelstudio2.com/tr2/20577/a (1).webp",
         "market": "Onur"
-    },
-    {
-        "id": "20579",
-        "imagesize": "2",
-        "kapak": "https://aktuelstudio2.com/tr2/20579/a (1).webp",
-        "name": "Kooperatif",
-        "tarih": "10-16 Kasım 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/20579/a (1).webp",
-        "market": "Kooperatif"
-    },
-    {
-        "id": "20578",
-        "imagesize": "2",
-        "kapak": "https://aktuelstudio2.com/tr2/20578/a (1).webp",
-        "name": "Kooperatif",
-        "tarih": "10-10 Kasım 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/20578/a (1).webp",
-        "market": "Kooperatif"
     }
 ]
