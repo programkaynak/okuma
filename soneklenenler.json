@@ -1,5 +1,14 @@
 [
     {
+        "id": "20595",
+        "imagesize": "16",
+        "kapak": "https://aktuelstudio2.com/tr2/20595/a (1).webp",
+        "name": "Tekzen",
+        "tarih": "Kasım-Aralık 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/20595/a (1).webp",
+        "market": "Tekzen"
+    },
+    {
         "id": "20591",
         "imagesize": "1",
         "kapak": "https://aktuelstudio2.com/tr2/20591/a (1).webp",
@@ -259,14 +268,5 @@
         "tarih": "07-09 Kasım 2026",
         "url_01": "https://aktuelstudio2.com/tr2/20571/a (1).webp",
         "market": "Kooperatif"
-    },
-    {
-        "id": "172962",
-        "imagesize": "1",
-        "kapak": "https://aktuelstudio2.com/tr/172962/1a.jpg",
-        "name": "ŞOK",
-        "tarih": "08 Kasım 2026",
-        "url_01": "https://aktuelstudio2.com/tr/172962/1a.jpg",
-        "market": "ŞOK"
     }
 ]
