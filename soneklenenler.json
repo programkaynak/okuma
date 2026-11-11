@@ -1,5 +1,14 @@
 [
     {
+        "id": "20594",
+        "imagesize": "1",
+        "kapak": "https://aktuelstudio2.com/tr2/20594/a (1).webp",
+        "name": "EnglishHome",
+        "tarih": "Kasım 2026\nenglishhome.com",
+        "url_01": "https://aktuelstudio2.com/tr2/20594/a (1).webp",
+        "market": "EnglishHome"
+    },
+    {
         "id": "20592",
         "imagesize": "7",
         "kapak": "https://aktuelstudio2.com/tr2/20592/a (1).webp",
@@ -259,14 +268,5 @@
         "tarih": "11-17 Kasım 2026                                                   (Eve Teslim)",
         "url_01": "https://aktuelstudio2.com/tr/172970/1a.jpg",
         "market": "BİM"
-    },
-    {
-        "id": "20572",
-        "imagesize": "1",
-        "kapak": "https://aktuelstudio2.com/tr2/20572/a (1).webp",
-        "name": "Hakmar",
-        "tarih": "20 Ekim-10 Kasım 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/20572/a (1).webp",
-        "market": "Hakmar"
     }
 ]
