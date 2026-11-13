@@ -1,5 +1,14 @@
 [
     {
+        "id": "172991",
+        "imagesize": "14",
+        "kapak": "https://aktuelstudio2.com/tr/172991/1a.jpg",
+        "name": "BİM",
+        "tarih": "13-19 Kasım 2026                                                   (Detaylı Ürünler)",
+        "url_01": "https://aktuelstudio2.com/tr/172991/1a.jpg",
+        "market": "BİM"
+    },
+    {
         "id": "20640",
         "imagesize": "1",
         "kapak": "https://aktuelstudio2.com/tr2/20640/a (1).webp",
@@ -259,14 +268,5 @@
         "tarih": "Kasım-Aralık 2026",
         "url_01": "https://aktuelstudio2.com/tr2/20595/a (1).webp",
         "market": "Tekzen"
-    },
-    {
-        "id": "20591",
-        "imagesize": "1",
-        "kapak": "https://aktuelstudio2.com/tr2/20591/a (1).webp",
-        "name": "Gratis",
-        "tarih": "27 Ekim-30 Kasım 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/20591/a (1).webp",
-        "market": "Gratis"
     }
 ]
