@@ -1,5 +1,14 @@
 [
     {
+        "id": "173021",
+        "imagesize": "1",
+        "kapak": "https://aktuelstudio2.com/tr/173021/1a.jpg",
+        "name": "ŞOK",
+        "tarih": "14-20 Kasım 2026",
+        "url_01": "https://aktuelstudio2.com/tr/173021/1a.jpg",
+        "market": "ŞOK"
+    },
+    {
         "id": "173020",
         "imagesize": "1",
         "kapak": "https://aktuelstudio2.com/tr/173020/1a.jpg",
@@ -259,14 +268,5 @@
         "tarih": "11-17 Kasım 2026",
         "url_01": "https://aktuelstudio2.com/tr2/20629/a (1).webp",
         "market": "Metro"
-    },
-    {
-        "id": "20627",
-        "imagesize": "1",
-        "kapak": "https://aktuelstudio2.com/tr2/20627/a (1).webp",
-        "name": "Kooperatif",
-        "tarih": "12 Kasım 2026 Tarihine Özel",
-        "url_01": "https://aktuelstudio2.com/tr2/20627/a (1).webp",
-        "market": "Kooperatif"
     }
 ]
