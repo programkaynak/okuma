@@ -1,5 +1,14 @@
 [
     {
+        "id": "20660",
+        "imagesize": "2",
+        "kapak": "https://aktuelstudio2.com/tr2/20660/a (1).webp",
+        "name": "Bizim",
+        "tarih": "14-17 Kasım 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/20660/a (1).webp",
+        "market": "Bizim"
+    },
+    {
         "id": "173024",
         "imagesize": "1",
         "kapak": "https://aktuelstudio2.com/tr/173024/1a.jpg",
@@ -259,14 +268,5 @@
         "tarih": "11-15 Kasım 2026",
         "url_01": "https://aktuelstudio2.com/tr2/20631/a (1).webp",
         "market": "HappyCenter"
-    },
-    {
-        "id": "20632",
-        "imagesize": "2",
-        "kapak": "https://aktuelstudio2.com/tr2/20632/a (1).webp",
-        "name": "Hakmar",
-        "tarih": "19-25 Kasım 2026",
-        "url_01": "https://aktuelstudio2.com/tr2/20632/a (1).webp",
-        "market": "Hakmar"
     }
 ]
