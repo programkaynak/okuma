@@ -1,5 +1,14 @@
 [
     {
+        "id": "20827",
+        "imagesize": "1",
+        "kapak": "https://aktuelstudio2.com/tr2/20827/a (1).webp",
+        "name": "HappyCenter",
+        "tarih": "25-30 Kasım 2026",
+        "url_01": "https://aktuelstudio2.com/tr2/20827/a (1).webp",
+        "market": "HappyCenter"
+    },
+    {
         "id": "20826",
         "imagesize": "1",
         "kapak": "https://aktuelstudio2.com/tr2/20826/a (1).webp",
@@ -259,14 +268,5 @@
         "tarih": "24-30 Kasım 2026",
         "url_01": "https://aktuelstudio2.com/tr/173166/1a.jpg",
         "market": "ŞOK"
-    },
-    {
-        "id": "173169",
-        "imagesize": "30",
-        "kapak": "https://aktuelstudio2.com/tr/173169/1a.jpg",
-        "name": "BİM",
-        "tarih": "25 Kasım-01 Aralık 2026 (Eve Teslim)",
-        "url_01": "https://aktuelstudio2.com/tr/173169/1a.jpg",
-        "market": "BİM"
     }
 ]
