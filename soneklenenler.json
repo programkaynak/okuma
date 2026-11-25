@@ -1,5 +1,14 @@
 [
     {
+        "id": "20826",
+        "imagesize": "1",
+        "kapak": "https://aktuelstudio2.com/tr2/20826/a (1).webp",
+        "name": "HappyCenter",
+        "tarih": "25 Kasım 2026 Tarihine Özel",
+        "url_01": "https://aktuelstudio2.com/tr2/20826/a (1).webp",
+        "market": "HappyCenter"
+    },
+    {
         "id": "20825",
         "imagesize": "3",
         "kapak": "https://aktuelstudio2.com/tr2/20825/a (1).webp",
@@ -259,14 +268,5 @@
         "tarih": "25 Kasım-01 Aralık 2026 (Eve Teslim)",
         "url_01": "https://aktuelstudio2.com/tr/173169/1a.jpg",
         "market": "BİM"
-    },
-    {
-        "id": "20787",
-        "imagesize": "1",
-        "kapak": "https://aktuelstudio2.com/tr2/20787/a (1).webp",
-        "name": "EnglishHome",
-        "tarih": "Kasım 2026\nenglishhome.com",
-        "url_01": "https://aktuelstudio2.com/tr2/20787/a (1).webp",
-        "market": "EnglishHome"
     }
 ]
